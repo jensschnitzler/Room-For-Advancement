@@ -22,6 +22,8 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [The Cost of Free Labor - Maribeth Kradel-Weitzel](https://www.aiga.org/the-cost-of-free-labor)
 
+[Why Do Employers Lowball Creatives? A New Study Has Answers - Nastia Voynovskaya](https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study)
+
 ## Podcasts
 
 [Work as identity, burnout as lifestyle - The Ezra Klein Show](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -32,7 +34,6 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
 ## Pending
-- https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study
 - https://eyeondesign.aiga.org/designers-please-pay-your-interns/
 - https://networkcultures.org/entreprecariat/what-design-cant-do/
 - https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf
