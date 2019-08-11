@@ -33,5 +33,11 @@ a,p,h1,h2,h3,h4,h5,h6 {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  margin-top: 4rem;
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+}
+
+blockquote, blockquote * {
+  font-style: italic;
+  margin-left: 0;
 }
