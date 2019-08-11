@@ -1,6 +1,6 @@
 # Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. 
 
-*Hustle, success, passion, burnout, being special, precarity, exploitation, low wages, long hours, illusive promises of self-actualization and enlightment.*
+*Passion, hustle, being special, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
 
 ## Reads
 
@@ -16,6 +16,10 @@
 
 Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Post Medium, Biennale internationale de design graphique Chaumont 2019 catalogue)
 
+[Whose space? - Noel Douglas, David Gentleman, Peter Kennard, United Visual Artists](http://www.eyemagazine.com/feature/article/whose-space)
+
+[Design is a ghetto - Ian Goodyer](http://www.eyemagazine.com/opinion/article/design-is-a-ghetto)
+
 ## Podcasts
 
 [Work as identity, burnout as lifestyle - The Ezra Klein Show](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -26,9 +30,6 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
 ## Pending
-- Herbert Spencer’s labour of love – Isabella Livingston ( https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1 )
-- http://www.eyemagazine.com/feature/article/whose-space
-- http://www.eyemagazine.com/opinion/article/design-is-a-ghetto
 - https://www.aiga.org/the-cost-of-free-labor
 - https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study
 - https://eyeondesign.aiga.org/designers-please-pay-your-interns/
@@ -38,7 +39,6 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 - https://joaap.org/issue8/chrislee.htm
 - https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education
 - https://www.valiz.nl/en/publications/facing-value.html
-- Be Creative: Making a Living in the New Culture Industries – Angela McRobbie
 - https://www.e-flux.com/journal/31/68212/general-performance/
 - https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
 - http://www.sternberg-press.com/index.php?pageId=1309
@@ -47,6 +47,9 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 - White: Essays on Race and Culture – Richard Dyer
 - The Vertigo Years: Europe, 1900-1914 – Philipp Blom
 - A Visit from the Goon Squad – Jennifer Egan
+- Herbert Spencer’s labour of love – Isabella Livingston (https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
+- Be Creative: Making a Living in the New Culture Industries – Angela McRobbie
+
 
 ## Images
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
