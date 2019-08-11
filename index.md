@@ -25,13 +25,19 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 [Why Do Employers Lowball Creatives? A New Study Has Answers - Nastia Voynovskaya](https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study)
 
 > young professionals refer to low-paying gigs as "passion wages."
-
 > "And for workers on the lower end of the socioeconomic spectrum to organize, to form unions, to form worker associations in which collective norms like working less for higher pay becomes the goal, the aim, the normal state of affairs."
 
 [Designers, Please Pay Your Interns - Aggie Toppins](https://eyeondesign.aiga.org/designers-please-pay-your-interns/)
 
 > a love for design is reward enough for working
 > the widespread expectation of unpaid labor in our field is a form of systematic exploitation
+
+[What Design Can’t Do — Graphic Design between Automation, Relativism, Élite and Cognitariat - Silvio Lorusso](https://networkcultures.org/entreprecariat/what-design-cant-do/)
+
+> "The thing that pisses me off the most is the degradation of the intellectual role of the designer."
+> Why waste time on design decisions when one can celebrate the aprioristic purity of the template?
+> Perhaps partly because of this visual relativism and the democratization of tools, graphic design, at least the one produced in some avantgarde schools, underwent a process of intellectualization. A term that indicates the tendency to make writing and research the pivot of a designer’s practice. […] In this case, the intellectual role of the designer is only recognized by other designers.
+> Graphic design becomes micromanagement, while the designer turns into a Kafkaesque, voice-controlled mouse.
 
 ## Podcasts
 
@@ -44,7 +50,7 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
 ## Pending
-- https://networkcultures.org/entreprecariat/what-design-cant-do/
+- 
 - https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf
 - http://modesofcriticism.org/automated-graphic-design/
 - https://joaap.org/issue8/chrislee.htm
@@ -67,6 +73,8 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
 ![](https://pbs.twimg.com/media/Dm97ESQW0AIACqS?format=jpg&name=900x900)
+
+![](https://networkcultures.org/entreprecariat/wp-content/uploads/sites/41/2017/02/graphic_design_is_my_passion.png)
 
 [Soviet Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
 
