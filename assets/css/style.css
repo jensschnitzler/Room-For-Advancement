@@ -12,7 +12,9 @@ html * {
 }
 
 body {
-  max-width: 60rem;
+  display: block;
+  max-width: 40rem;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 400px) {
@@ -21,7 +23,10 @@ body {
   }
 }
 
-p,h1, h2, h3,h4,h5,h6 {
+a, p,h1, h2, h3,h4,h5,h6 {
+  color: #000;
+  font-weight: normal;
+  font-style: normal;
   font-family: sans-serif;
   font-size: 1rem;
   line-height: 1.3;
