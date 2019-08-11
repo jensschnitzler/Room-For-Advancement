@@ -53,13 +53,17 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 
 ## Images
+
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
-[Sovite Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
+![](https://pbs.twimg.com/media/Dm97ESQW0AIACqS?format=jpg&name=900x900)
+
+[Soviet Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
 
 [daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
 ## Misc
+
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
 - "The Lost Art of Leisure"
 - maybe if I work hard enough, I can be a winner
