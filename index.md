@@ -30,6 +30,9 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [Designers, Please Pay Your Interns - Aggie Toppins](https://eyeondesign.aiga.org/designers-please-pay-your-interns/)
 
+> a love for design is reward enough for working
+> the widespread expectation of unpaid labor in our field is a form of systematic exploitation
+
 ## Podcasts
 
 [Work as identity, burnout as lifestyle - The Ezra Klein Show](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
