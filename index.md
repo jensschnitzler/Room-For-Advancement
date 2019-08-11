@@ -48,7 +48,9 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 
 ## Images
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
+
 [Sovite Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
+
 [daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
 ## Misc
