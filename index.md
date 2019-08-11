@@ -38,6 +38,7 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 > Why waste time on design decisions when one can celebrate the aprioristic purity of the template?
 > Perhaps partly because of this visual relativism and the democratization of tools, graphic design, at least the one produced in some avantgarde schools, underwent a process of intellectualization. A term that indicates the tendency to make writing and research the pivot of a designer’s practice. […] In this case, the intellectual role of the designer is only recognized by other designers.
 > Graphic design becomes micromanagement, while the designer turns into a Kafkaesque, voice-controlled mouse.
+> design is not a job but a lifestyle
 
 ## Podcasts
 
