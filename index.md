@@ -14,7 +14,7 @@
 
 [How Much Is a Word Worth? - Malcolm Harris](https://medium.com/s/story/how-much-is-a-word-worth-7fcd131a341c)
 
-Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Post Medium, Biennale internationale de design graphique Chaumont 2019 catalogue)
+Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post Medium, Biennale internationale de design graphique Chaumont 2019 catalogue)
 
 [Whose space? - Noel Douglas, David Gentleman, Peter Kennard, United Visual Artists](http://www.eyemagazine.com/feature/article/whose-space)
 
