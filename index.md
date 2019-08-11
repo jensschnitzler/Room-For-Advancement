@@ -24,6 +24,10 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [Why Do Employers Lowball Creatives? A New Study Has Answers - Nastia Voynovskaya](https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study)
 
+> young professionals refer to low-paying gigs as "passion wages."
+
+> "And for workers on the lower end of the socioeconomic spectrum to organize, to form unions, to form worker associations in which collective norms like working less for higher pay becomes the goal, the aim, the normal state of affairs."
+
 [Designers, Please Pay Your Interns - Aggie Toppins](https://eyeondesign.aiga.org/designers-please-pay-your-interns/)
 
 ## Podcasts
@@ -33,6 +37,7 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 [Jutta Allmendinger, gibt es Unterschiede zwischen Frauen und Männern? - Alles gesagt?](https://www.zeit.de/gesellschaft/2019-06/jutta-allmendinger-alles-gesagt-interviewpodcast)
 
 [Friedrich Liechtenstein – Frisch an die Arbeit](https://www.zeit.de/arbeit/2017-10/friedrich-liechtenstein-arbeit-geld-kunst)
+
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
 ## Pending
