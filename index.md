@@ -1,6 +1,6 @@
-# Research
+# Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. 
 
-Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. Hustle, success, passion, burnout, being special, precarious and exploitative conditions, low wages, long hours, illusive promises of self-actualization, enlightment and other immaterial rewards.
+*Hustle, success, passion, burnout, being special, precarious and exploitative conditions, low wages, long hours, illusive promises of self-actualization, enlightment and other immaterial rewards.*
 
 ## Reads
 
