@@ -1,6 +1,6 @@
 # Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. 
 
-*Passion, hustle, being special, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
+*Passion, hustle, performance, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
 
 ## Reads
 
@@ -20,6 +20,8 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 
 [Design is a ghetto - Ian Goodyer](http://www.eyemagazine.com/opinion/article/design-is-a-ghetto)
 
+[The Cost of Free Labor - Maribeth Kradel-Weitzel](https://www.aiga.org/the-cost-of-free-labor)
+
 ## Podcasts
 
 [Work as identity, burnout as lifestyle - The Ezra Klein Show](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -30,7 +32,6 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
 ## Pending
-- https://www.aiga.org/the-cost-of-free-labor
 - https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study
 - https://eyeondesign.aiga.org/designers-please-pay-your-interns/
 - https://networkcultures.org/entreprecariat/what-design-cant-do/
