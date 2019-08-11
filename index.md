@@ -1,5 +1,7 @@
 # Research
 
+Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. Hustle, success, passion, burnout, being special, precarious and exploitative conditions, low wages, long hours, illusive promises of self-actualization, enlightment and other immaterial rewards.
+
 ## Reads
 
 [Workism Is Making Americans Miserable - Derek Thompson](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/)
@@ -58,9 +60,6 @@ Abolish the Stage of Precarity – On Performance Design – The Rodina (in: Pos
 - "The Lost Art of Leisure"
 - maybe if I work hard enough, I can be a winner
 - I thought there was a way of winning the game. every aspect of life is suffering. kill expectations.
-*Workism in Graphic Design*
-- Hard/Long Work - Precarious Salary - Promise of Immaterial Achievement/Reward
-*Do Graphic Designers actively reflect on their exploitative, precarious and illusive work situation?*
 - an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
 
 
