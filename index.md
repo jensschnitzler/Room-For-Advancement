@@ -97,6 +97,12 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
+## Music Videos
+
+[Work Bitch - Britney Spears](https://www.youtube.com/watch?v=pt8VYOfr8To)
+
+[Sixteen Tons - Merle Travis](https://www.youtube.com/watch?v=eUXc7LMo_TA)
+
 ## Misc
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
