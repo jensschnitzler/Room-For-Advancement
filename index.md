@@ -25,24 +25,35 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 [Why Do Employers Lowball Creatives? A New Study Has Answers - Nastia Voynovskaya](https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study)
 
 > young professionals refer to low-paying gigs as "passion wages."
+
 > "And for workers on the lower end of the socioeconomic spectrum to organize, to form unions, to form worker associations in which collective norms like working less for higher pay becomes the goal, the aim, the normal state of affairs."
 
 [Designers, Please Pay Your Interns - Aggie Toppins](https://eyeondesign.aiga.org/designers-please-pay-your-interns/)
 
 > a love for design is reward enough for working
+
 > the widespread expectation of unpaid labor in our field is a form of systematic exploitation
 
 [What Design Can’t Do — Graphic Design between Automation, Relativism, Élite and Cognitariat - Silvio Lorusso](https://networkcultures.org/entreprecariat/what-design-cant-do/)
 
 > "The thing that pisses me off the most is the degradation of the intellectual role of the designer."
+
 > Why waste time on design decisions when one can celebrate the aprioristic purity of the template?
+
 > Perhaps partly because of this visual relativism and the democratization of tools, graphic design, at least the one produced in some avantgarde schools, underwent a process of intellectualization. A term that indicates the tendency to make writing and research the pivot of a designer’s practice. […] In this case, the intellectual role of the designer is only recognized by other designers.
+
 > Graphic design becomes micromanagement, while the designer turns into a Kafkaesque, voice-controlled mouse.
+
 > design is not a job but a lifestyle
+
 > "sleep is overrated."
+
 > And the aspiring designer, whether critical or not, doesn’t seem so different from the startupper working uninterruptedly in his basement in order to create a revolutionary product.
+
 > But if it’s true that, as Tony Fry argues, design “either serves or subverts the status quo”, it is legitimate to ask whether within certain instances of design education, the impetus to subvert the status quo is precisely what ultimately serves it.
+
 > […] the cognitive dissonance of what I call entreprecariat, the mutual influence between an entrepreneurial pressure, that happens especially at a social level, and an increasing form of perceived precarity, which is at the same time material, professional, and existential.
+
 > the notion of individual genius
 
 ## Podcasts
