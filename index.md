@@ -39,6 +39,11 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 > Perhaps partly because of this visual relativism and the democratization of tools, graphic design, at least the one produced in some avantgarde schools, underwent a process of intellectualization. A term that indicates the tendency to make writing and research the pivot of a designer’s practice. […] In this case, the intellectual role of the designer is only recognized by other designers.
 > Graphic design becomes micromanagement, while the designer turns into a Kafkaesque, voice-controlled mouse.
 > design is not a job but a lifestyle
+> "sleep is overrated."
+> And the aspiring designer, whether critical or not, doesn’t seem so different from the startupper working uninterruptedly in his basement in order to create a revolutionary product.
+> But if it’s true that, as Tony Fry argues, design “either serves or subverts the status quo”, it is legitimate to ask whether within certain instances of design education, the impetus to subvert the status quo is precisely what ultimately serves it.
+> […] the cognitive dissonance of what I call entreprecariat, the mutual influence between an entrepreneurial pressure, that happens especially at a social level, and an increasing form of perceived precarity, which is at the same time material, professional, and existential.
+> the notion of individual genius
 
 ## Podcasts
 
@@ -88,5 +93,8 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 - maybe if I work hard enough, I can be a winner
 - I thought there was a way of winning the game. every aspect of life is suffering. kill expectations.
 - an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
+- http://www.pratichenonaffermative.net/inquiry/en/
+- https://precaritypilot.net/
+- Citizen Designer: Perspectives on Design Responsibility - Steven Heller, Veronique Vienne
 
 
