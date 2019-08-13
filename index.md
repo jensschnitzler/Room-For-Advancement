@@ -103,6 +103,10 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [Sixteen Tons - Merle Travis](https://www.youtube.com/watch?v=eUXc7LMo_TA)
 
+[Supermodel (You Better Work) - RuPaul](https://www.youtube.com/watch?v=Vw9LOrHU8JI)
+
+[I Do Coke - Kill The Noise & Feed Me](https://www.youtube.com/watch?v=oSPT27XyY1U)
+
 ## Misc
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
