@@ -1,0 +1,17 @@
+{
+  "captions":
+    [
+      {
+        "imgtitle": "My first image"
+        "caption": "This is my first image",
+      },
+      {
+        "imgtitle": "My second image"
+        "caption": "This is my second image",
+      },
+      {
+        "imgtitle": "My third image"
+        "caption": "This is my third image",
+      }
+    ]
+}
