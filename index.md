@@ -66,8 +66,9 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
-## Pending
-- 
+## Pending Sources
+
+- [Under Neoliberalism, You Can Be Your Own Tyrannical Boss - Meagan Day](https://www.jacobinmag.com/2018/01/under-neoliberalism-you-can-be-your-own-tyrannical-boss)
 - https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf
 - http://modesofcriticism.org/automated-graphic-design/
 - https://joaap.org/issue8/chrislee.htm
