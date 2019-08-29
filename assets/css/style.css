@@ -2,11 +2,10 @@
 @import url("https://rawcdn.githack.com/jensschnitzler/The-Typeface-of-Our-Time/47925de45abe014918edc75155161aaf8d97aa08/assets/css/style.css");
 
 blockquote {
-  margin: .5rem 0 0 0;
+  margin: .5rem 0 0 2rem;
 }
 
-blockquote p {
-  margin-left: 2rem;
+blockquote, blockquote *  {
   font-size: .7rem;
   font-style: normal;
   font-weight: normal;
