@@ -11,6 +11,10 @@ blockquote, blockquote *  {
   font-weight: normal;
 }
 
+blockquote:last-of-kind {
+  margin-bottom: .5rem;
+}
+
 p+p {
   text-indent: 0;
   margin: .5rem 0 0 0;
