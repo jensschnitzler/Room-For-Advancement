@@ -100,6 +100,9 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
+![](https://pbs.twimg.com/media/EDEDwR9XYAEsZaS?format=jpg&name=small)
+Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
+
 ## Music Videos
 
 [Britney Spears: Work Bitch](https://www.youtube.com/watch?v=pt8VYOfr8To)
