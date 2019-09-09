@@ -110,6 +110,10 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 [Kill The Noise & Feed Me: I Do Coke](https://www.youtube.com/watch?v=oSPT27XyY1U)
 
+[Deichkind: Bück Dich Hoch](https://www.youtube.com/watch?v=8Q44P_Qbq9o)
+
+[Geier Sturzflug: Bruttosozialprodukt](https://www.youtube.com/watch?v=K3vgNYtu8Kk)
+
 ## Misc
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
