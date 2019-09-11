@@ -56,6 +56,20 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 > the notion of individual genius
 
+- [Meagan Day: Under Neoliberalism, You Can Be Your Own Tyrannical Boss](https://www.jacobinmag.com/2018/01/under-neoliberalism-you-can-be-your-own-tyrannical-boss)
+
+> “neoliberal perfectionism”
+
+> Neoliberal ideology reveres competition, discourages cooperation, promotes ambition, and tethers personal worth to professional achievement. Unsurprisingly, societies governed by these values make people very judgmental, and very anxious about being judged.
+
+> Neoliberal meritocracy […] has created a cutthroat environment in which every person is their own brand ambassador, the sole spokesman for their product (themselves) and broker of their own labor, in an endless sea of competition. 
+
+- [Francisco Laranjo: Automated Graphic Design](http://modesofcriticism.org/automated-graphic-design/)
+
+> Software had effectively flattened tools, process and output into an inevitable standardisation.
+
+> As a result, two types of design schools survived. One, a centralised, manual, nostalgic, craft school. The second, a cooperative of small, nomadic design schools built around systems thinking and political activism. 
+
 ## Podcasts
 
 [The Ezra Klein Show: Work as identity, burnout as lifestyle](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -68,23 +82,36 @@ Abolish the Stage of Precarity, On Performance Design – The Rodina (in: Post M
 
 ## Pending Sources
 
-- [Meagan Day: Under Neoliberalism, You Can Be Your Own Tyrannical Boss](https://www.jacobinmag.com/2018/01/under-neoliberalism-you-can-be-your-own-tyrannical-boss)
-- https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf
-- http://modesofcriticism.org/automated-graphic-design/
-- https://joaap.org/issue8/chrislee.htm
-- https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education
-- https://www.valiz.nl/en/publications/facing-value.html
-- https://www.e-flux.com/journal/31/68212/general-performance/
-- https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
-- http://www.sternberg-press.com/index.php?pageId=1309
-- https://de.wikipedia.org/wiki/Wochenarbeitszeit
-- Kids These Days: Human Capital and the Making of Millennials – Malcolm Harris
-- White: Essays on Race and Culture – Richard Dyer
-- The Vertigo Years: Europe, 1900-1914 – Philipp Blom
-- A Visit from the Goon Squad – Jennifer Egan
-- Herbert Spencer’s labour of love – Isabella Livingston (https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
-- Be Creative: Making a Living in the New Culture Industries – Angela McRobbie
+- [Schmiede, Rudi: Reconsidering value and labour in the
+digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf)
 
+- https://joaap.org/issue8/chrislee.htm
+
+- https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education
+
+- https://www.valiz.nl/en/publications/facing-value.html
+
+- https://www.e-flux.com/journal/31/68212/general-performance/
+
+- https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
+
+- http://www.sternberg-press.com/index.php?pageId=1309
+
+- https://de.wikipedia.org/wiki/Wochenarbeitszeit
+
+- Malcolm Harris: Kids These Days: Human Capital and the Making of Millennials
+
+- Richard Dyer: White: Essays on Race and Culture
+
+- Philipp Blom: The Vertigo Years: Europe, 1900-1914
+
+- Jennifer Egan: A Visit from the Goon Squad
+
+- [Isabella Livingston: Herbert Spencer’s labour of love](https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
+
+- Angela McRobbie: Be Creative: Making a Living in the New Culture Industries
+
+- [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
 
 ## Images
 
