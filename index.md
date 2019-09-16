@@ -70,6 +70,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 > As a result, two types of design schools survived. One, a centralised, manual, nostalgic, craft school. The second, a cooperative of small, nomadic design schools built around systems thinking and political activism. 
 
+- [Kit Friend: The creative industries need to focus on talent rather than free labour](https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education)
+
 ## Podcasts
 
 [The Ezra Klein Show: Work as identity, burnout as lifestyle](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -80,38 +82,36 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
-## Pending Sources
-
-- [Schmiede, Rudi: Reconsidering value and labour in the
-digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf)
+## Pending Online Articles
 
 - https://joaap.org/issue8/chrislee.htm
-
-- https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education
-
-- https://www.valiz.nl/en/publications/facing-value.html
 
 - https://www.e-flux.com/journal/31/68212/general-performance/
 
 - https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
 
-- http://www.sternberg-press.com/index.php?pageId=1309
+## Pending Books
 
-- https://de.wikipedia.org/wiki/Wochenarbeitszeit
-
-- Malcolm Harris: Kids These Days: Human Capital and the Making of Millennials
-
-- Richard Dyer: White: Essays on Race and Culture
-
-- Philipp Blom: The Vertigo Years: Europe, 1900-1914
-
-- Jennifer Egan: A Visit from the Goon Squad
-
-- [Isabella Livingston: Herbert Spencer’s labour of love](https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
+- [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
 
 - Angela McRobbie: Be Creative: Making a Living in the New Culture Industries
 
-- [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
+- [Isabella Livingston: Herbert Spencer’s labour of love](https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
+
+- Jennifer Egan: A Visit from the Goon Squad
+
+- Philipp Blom: The Vertigo Years: Europe, 1900-1914
+
+- Richard Dyer: White: Essays on Race and Culture
+
+- Malcolm Harris: Kids These Days: Human Capital and the Making of Millennials
+
+- [Julieta Aranda, Brian Kuan Wood, Anton Vidokle (Eds.): e-flux journal: Are You Working Too Much?](http://www.sternberg-press.com/index.php?pageId=1309)
+
+- [Facing Value](https://www.valiz.nl/en/publications/facing-value.html)
+
+- [Schmiede, Rudi: Reconsidering value and labour in the
+digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf)
 
 ## Images
 
@@ -156,6 +156,7 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - http://www.pratichenonaffermative.net/inquiry/en/
 - https://precaritypilot.net/
 - Citizen Designer: Perspectives on Design Responsibility: Steven Heller, Veronique Vienne
+- https://de.wikipedia.org/wiki/Wochenarbeitszeit
 
 ## Further Ressources
 
