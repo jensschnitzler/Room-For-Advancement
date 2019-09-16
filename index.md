@@ -113,6 +113,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 - [Schmiede, Rudi: Reconsidering value and labour in the
 digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf)
 
+- https://www.onomatopee.net/exhibition/permanent-recession/
+
 ## Images
 
 ![](/assets/img/instagram-scheideerevolte.png)
