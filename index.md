@@ -144,6 +144,8 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 [Geier Sturzflug: Bruttosozialprodukt](https://www.youtube.com/watch?v=K3vgNYtu8Kk)
 
+[Dolly Parton: 9 to 5](https://www.youtube.com/watch?v=UbxUSsFXYo4)
+
 ## Misc
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
