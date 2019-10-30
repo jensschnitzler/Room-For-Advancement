@@ -72,6 +72,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 - [Kit Friend: The creative industries need to focus on talent rather than free labour](https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education)
 
+- [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
+
 ## Podcasts
 
 [The Ezra Klein Show: Work as identity, burnout as lifestyle](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -92,8 +94,6 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 ## Pending Books
 
-- [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
-
 - Angela McRobbie: Be Creative: Making a Living in the New Culture Industries
 
 - [Isabella Livingston: Herbert Spencer’s labour of love](https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
@@ -113,7 +113,9 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 - [Schmiede, Rudi: Reconsidering value and labour in the
 digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-newtechworkempl-2017-1-rez-schmiede.pdf?sequence=3&isAllowed=y&lnkname=ssoar-newtechworkempl-2017-1-rez-schmiede.pdf)
 
-- https://www.onomatopee.net/exhibition/permanent-recession/
+- [Permanent Recession](https://www.onomatopee.net/exhibition/permanent-recession/)
+
+- [Weeks, Kathi: The Problem with Work](https://libcom.org/files/the-problem-with-work_-feminism-marxism-kathi-weeks.pdf)
 
 ## Images
 
