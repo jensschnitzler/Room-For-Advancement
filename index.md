@@ -121,7 +121,9 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 
 ![](/research/assets/img/klingspor-koch.png)
 
-![](/research/assets/img/whatsapp.jpg)
+![](/research/assets/img/friends.png)
+
+![](/research/assets/img/WhatsApp.jpg)
 
 ![](/research/assets/img/instagram-scheideerevolte.png)
 
