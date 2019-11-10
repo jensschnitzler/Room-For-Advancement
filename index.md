@@ -131,6 +131,9 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 
 ![](https://pbs.twimg.com/media/Dm97ESQW0AIACqS?format=jpg&name=900x900)
 
+![](https://pbs.twimg.com/media/EB-D3XgWkAEPZZW?format=jpg&name=medium)
+Src: https://twitter.com/loudandsmart/status/1161792219797499904
+
 ![](https://networkcultures.org/entreprecariat/wp-content/uploads/sites/41/2017/02/graphic_design_is_my_passion.png)
 
 [Soviet Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
@@ -171,3 +174,7 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 ## Further Ressources
 
 - https://carrotworkers.wordpress.com/
+
+- https://www.uvwunion.org.uk/culture-design-workers
+
+- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
