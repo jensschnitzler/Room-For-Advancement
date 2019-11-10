@@ -119,9 +119,11 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 
 ## Images
 
-![](/assets/img/whatsapp.jpg)
+![](/research/assets/img/klingspor-koch.png)
 
-![](/assets/img/instagram-scheideerevolte.png)
+![](/research/assets/img/whatsapp.jpg)
+
+![](/research/assets/img/instagram-scheideerevolte.png)
 
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
