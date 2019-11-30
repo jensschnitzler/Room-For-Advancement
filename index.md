@@ -348,6 +348,10 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - "Don't work for assholes. Don't work with assholes." Erik Spiekermann
 
+- Connected Topic: "Mythos und Inszenierung des künstlerischen Genies" 
+
+- https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
+
 ## Further Ressources
 
 - https://carrotworkers.wordpress.com/
