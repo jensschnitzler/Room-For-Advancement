@@ -367,3 +367,5 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
 
 - https://agd.de/szene/2015/kreativ-und-ausgebrannt
+
+- https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
