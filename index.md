@@ -365,3 +365,5 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://evening-class.org/
 
 - https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
+
+- https://agd.de/szene/2015/kreativ-und-ausgebrannt
