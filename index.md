@@ -74,6 +74,39 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 - [Timo Hinze: Die flüssige Fabrik](http://spectorbooks.com/de/die-fluessige-fabrik)
 
+> Wandel des Arbeitsprinzips in den 60ern
+
+> Was sagen Künstler über Arbeit? (z.B. Situationisten)
+
+> Maschinenstürmerin zerstört zuerst die Werksuhr
+
+> Adobe, WeWork, Arbeitsverbände
+
+> Wäre ein Blick auf Arbeitsplätze interessant? Z.B. auf die berühmter (historischer) Designer\*innen?
+
+> Über Arbeit reden mit arbeitenden Künstlern, Designern, Kulturschaffenden: David Voss, Eike König, Timo Hinze, Sandra Döller, Neurotic Asshole, Laury Penny
+
+> Nicht die Leidenschaft, Sinnsuche und Projektionen (S. 79) des Arbeiters sind das Problem, sondern deren Ausbeutung (kontextualisieren, nicht pathologisieren)
+
+> Suche nach Identität, Verwirklichung, biografischem Reichtum, Unsterblichkeit, Sinn, Bedeutung, Karriere, Wachstum
+
+> Setting: Selbstausbeutung = Erfüllung
+
+> Insuffizienzgefühl -> Depression
+
+> Prinzip Fabrik -> Prinzip Unternehmen -> Prinzip Gig-Economy (Hollow Man, S. 9, Kommissar, S. 29)
+
+- Eduardo Galeano, Das Recht zu Träumen (erschienen im Karuna Kompass)
+
+> "Die Leute arbeiten, um zu leben, anstatt zu leben, um zu arbeiten."
+
+
+## Further Sources
+
+- Abstract (Netflix Series)
+
+> Olafur Eliasson: "Gute Ideen kommen mir, wenn ich hart arbeite."
+
 ## Podcasts
 
 [The Ezra Klein Show: Work as identity, burnout as lifestyle](https://castbox.fm/episode/Work-as-identity%2C-burnout-as-lifestyle-id121041-id147034442?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=de)
@@ -162,14 +195,30 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 ## Misc
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
+
 - "The Lost Art of Leisure"
+
 - maybe if I work hard enough, I can be a winner
+
 - I thought there was a way of winning the game. every aspect of life is suffering. kill expectations.
+
 - an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
+
 - http://www.pratichenonaffermative.net/inquiry/en/
+
 - https://precaritypilot.net/
+
 - Citizen Designer: Perspectives on Design Responsibility: Steven Heller, Veronique Vienne
+
 - https://de.wikipedia.org/wiki/Wochenarbeitszeit
+
+- Miriam Cahn: Monatsarbeitszyklus
+
+- Warum scheint Arbtisverweigerung keine Lösung zu sein? 
+
+- Ist die Verknüpfung von Identität und Arbeit inherent problematisch?
+
+- Warum und wofür arbeitest du?
 
 ## Further Ressources
 
@@ -178,3 +227,5 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://www.uvwunion.org.uk/culture-design-workers
 
 - https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
+
+- https://mama.klassegrafik.de/
