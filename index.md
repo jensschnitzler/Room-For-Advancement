@@ -276,6 +276,8 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 
 ## Images
 
+![](/research/assets/img/musewendi.png)
+
 ![](/research/assets/img/klingspor-koch.png)
 
 ![](/research/assets/img/friends.png)
