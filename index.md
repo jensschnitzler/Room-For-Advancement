@@ -354,6 +354,10 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
 
+- conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
+
+- ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
+
 ## Further Ressources
 
 - https://carrotworkers.wordpress.com/
