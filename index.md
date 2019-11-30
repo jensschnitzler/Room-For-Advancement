@@ -344,6 +344,8 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - Warum und wofür arbeitest du?
 
+- the master's tools will never dismantle the master's house
+
 ## Further Ressources
 
 - https://carrotworkers.wordpress.com/
@@ -353,3 +355,11 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
 
 - https://mama.klassegrafik.de/
+
+- https://filz.works/de/work-collection/she-works-hard
+
+- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
+
+- https://evening-class.org/
+
+- https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
