@@ -346,6 +346,8 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - the master's tools will never dismantle the master's house
 
+- "Don't work for assholes. Don't work with assholes." Erik Spiekermann
+
 ## Further Ressources
 
 - https://carrotworkers.wordpress.com/
