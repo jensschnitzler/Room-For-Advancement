@@ -1,4 +1,4 @@
-# Workism in Graphic Design: A compilation of sources for reflecting on labour in the creative industries. 
+# Room for Advancement: A compilation of resources for reflecting on labour and workism in the creative industries, especially in graphic design
 
 *Passion, hustle, performance, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
 
@@ -302,7 +302,7 @@ Src: https://twitter.com/loudandsmart/status/1161792219797499904
 ![](https://pbs.twimg.com/media/EDEDwR9XYAEsZaS?format=jpg&name=small)
 Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
-## Music Videos
+## Music
 
 [Britney Spears: Work Bitch](https://www.youtube.com/watch?v=pt8VYOfr8To)
 
@@ -318,7 +318,11 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 [Dolly Parton: 9 to 5](https://www.youtube.com/watch?v=UbxUSsFXYo4)
 
+[Kat Frankie: A Body of Work]()
+
 ## Misc
+
+- https://workingnotworking.com/
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
 
@@ -358,7 +362,25 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
 
+- https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/
+
+- "the master's tools will never dismantle the master's house" - Audre Lorde
+
+## Related Graphic Design
+
+- https://jihee-lee.com/WORK-Work-work
+
+## Memes
+
+- https://www.instagram.com/p/BxVAmafBb6x/?igshid=iwqxly290sgb
+
 ## Further Ressources
+
+- https://precaritypilot.net/
+
+- Graphic Design Salary Transparency: https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397
+
+- https://twitter.com/uvw_dcw
 
 - https://carrotworkers.wordpress.com/
 
@@ -379,3 +401,5 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://agd.de/szene/2015/kreativ-und-ausgebrannt
 
 - https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
+
+- tiny.cc/designinterns
