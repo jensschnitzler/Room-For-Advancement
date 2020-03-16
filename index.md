@@ -170,15 +170,15 @@ https://vimeo.com/204728326
 
 ## Images
 
-![](/research/assets/img/musewendi.png)
+![](/room-for-advancement/assets/img/musewendi.png)
 
-![](/research/assets/img/klingspor-koch.png)
+![](/room-for-advancement/assets/img/klingspor-koch.png)
 
-![](/research/assets/img/friends.png)
+![](/room-for-advancement/assets/img/friends.png)
 
-![](/research/assets/img/WhatsApp.jpg)
+![](/room-for-advancement/assets/img/WhatsApp.jpg)
 
-![](/research/assets/img/instagram-scheideerevolte.png)
+![](/room-for-advancement/assets/img/instagram-scheideerevolte.png)
 
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
