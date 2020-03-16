@@ -40,8 +40,8 @@
 
       <nav class="sticky">
         <ul>
-           {% for item in site.pages %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+           {% for item in site.html_pages %}
+              <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
            {% endfor %}
         </ul>
       </nav>

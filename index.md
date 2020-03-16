@@ -117,7 +117,19 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 > Es gibt seltsame Beschäftigtungsverhältnisse und Arbeitssucht.
 
+[Evening Class](https://www.mixcloud.com/eveningclass/)
+
 ## Pending Online Articles
+
+- http://reader.lgru.net/pages/index/
+
+- https://www.thisiscolossal.com/2016/05/how-to-work-better/
+
+- http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-jena.html
+
+- https://toggl.com/timesheets-magazine-berlin/6th-finger-human-side-teamwork/
+
+- https://www.zeit.de/campus/2019-11/psychische-krankheiten-generation-psychotherapie-gesundheit?utm_campaign=ref&wt_zmc=sm.int.zonaudev.facebook.ref.zeitde.redpost_zon.link.sf&utm_term=facebook_zonaudev_int&utm_content=zeitde_redpost_zon_link_sf&utm_source=facebook_zonaudev_int&utm_medium=sm&fbclid=IwAR1dJJLJLLWgC9ER1AFaPky38OdfnivHXoZlZwH2_AlHMLRYAwrE7g2UKzk
 
 - https://joaap.org/issue8/chrislee.htm
 
@@ -149,6 +161,10 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 - [Permanent Recession](https://www.onomatopee.net/exhibition/permanent-recession/)
 
 - [Weeks, Kathi: The Problem with Work](https://libcom.org/files/the-problem-with-work_-feminism-marxism-kathi-weeks.pdf)
+
+## Pending Videos
+
+https://vimeo.com/204728326
 
 ## Images
 
@@ -279,3 +295,7 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 - https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
 
 - tiny.cc/designinterns
+
+## Tools
+
+- [OSP: HTML2Print](http://osp.kitchen/tools/html2print/)
