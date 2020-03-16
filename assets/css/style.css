@@ -30,7 +30,7 @@ nav ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top: .6rem;
+  margin-top: .9rem;
   margin-bottom: .6rem;
   text-transform: uppercase;
   display: block;
@@ -60,6 +60,9 @@ p {
   margin-bottom: .6rem;
   margin-left: 4rem;
   text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100%;
+  position: relative;
 }
 
 p+p {
