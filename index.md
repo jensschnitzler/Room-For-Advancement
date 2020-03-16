@@ -2,130 +2,6 @@
 
 *Passion, hustle, performance, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
 
-## Glossary
-
-### A
-Achievement
-Adobe
-Alienation
-Ambassador
-Ambition
-Artists
-Aspirations
-Associations
-Automation
-Avantgarde
-### B
-Burnout
-Brand
-### C
-Capitalism
-Collective
-Company
-Competition
-Cooperation
-Cost
-create
-Creatives
-Creator
-Critical
-### D
-Democratization
-Depression
-Design
-### E
-Entreprecariat
-Employers
-Exploitation
-Existential
-### F
-Factory
-Form
-Free
-Fulfillment
-### G
-Genius
-Gig-Economy
-Gigs
-Graphic Design
-### H
-Hard
-Hustle
-### I
-Ideas
-Industries
-Insufficiency
-Intellectual
-Intellectualization
-Interns
-### J
-Job
-### K
-### L
-Labour
-Lifestyle
-Love
-Low-Paying
-### M
-Meaning
-Meritocracy
-Millenials
-Miserable
-### N
-Neoliberal
-Norms
-### O
-Organize
-### P
-Passion
-Pay
-Perfectionism
-Performance
-Practice
-Precarity
-Pressure
-Professional
-Projection
-### Q
-### R
-Realization
-Relativism
-Revolution
-Reward
-### S
-Schools
-Self-Actualization
-Self-Exploitation
-Sleep
-Socioeconomic
-Stage
-Standardisation
-Startupper
-Subversion
-Success
-Systematic
-### T
-Talent
-Template
-Time
-Tools
-### U
-Unpaid
-Unions
-### V
-Visual
-### W
-Wages
-WeWork
-Work
-Worker
-Workism
-Worth
-### X
-### Y
-Young 
-### Z
-
 ## Reads
 
 [Derek Thompson: Workism Is Making Americans Miserable](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/)
@@ -186,13 +62,13 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 > Neoliberal ideology reveres competition, discourages cooperation, promotes ambition, and tethers personal worth to professional achievement. Unsurprisingly, societies governed by these values make people very judgmental, and very anxious about being judged.
 
-> Neoliberal meritocracy […] has created a cutthroat environment in which every person is their own brand ambassador, the sole spokesman for their product (themselves) and broker of their own labor, in an endless sea of competition. 
+> Neoliberal meritocracy […] has created a cutthroat environment in which every person is their own brand ambassador, the sole spokesman for their product (themselves) and broker of their own labor, in an endless sea of competition.
 
 - [Francisco Laranjo: Automated Graphic Design](http://modesofcriticism.org/automated-graphic-design/)
 
 > Software had effectively flattened tools, process and output into an inevitable standardisation.
 
-> As a result, two types of design schools survived. One, a centralised, manual, nostalgic, craft school. The second, a cooperative of small, nomadic design schools built around systems thinking and political activism. 
+> As a result, two types of design schools survived. One, a centralised, manual, nostalgic, craft school. The second, a cooperative of small, nomadic design schools built around systems thinking and political activism.
 
 - [Kit Friend: The creative industries need to focus on talent rather than free labour](https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2011/nov/28/creative-training-arts-education)
 
@@ -344,7 +220,7 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - Miriam Cahn: Monatsarbeitszyklus
 
-- Warum scheint Arbtisverweigerung keine Lösung zu sein? 
+- Warum scheint Arbtisverweigerung keine Lösung zu sein?
 
 - Ist die Verknüpfung von Identität und Arbeit inherent problematisch?
 
@@ -354,7 +230,7 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - "Don't work for assholes. Don't work with assholes." Erik Spiekermann
 
-- Connected Topic: "Mythos und Inszenierung des künstlerischen Genies" 
+- Connected Topic: "Mythos und Inszenierung des künstlerischen Genies"
 
 - https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
 
