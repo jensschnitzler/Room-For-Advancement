@@ -3,4 +3,4 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 *currently gathering research material*
 
-[GitHub Page](https://jensschnitzler.github.io/research/)
+[View contents on GitHub Page](https://jensschnitzler.github.io/research/)
