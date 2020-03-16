@@ -3,12 +3,34 @@
 
 body, html {
   font-size: 17px;
+  max-width: none;
+}
+
+main {
+  max-width: 38rem;
+  margin: 0 auto;
+  padding: .1rem .4rem;
+}
+
+nav {
+  padding: .1rem .4rem;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: .6rem;
   margin-bottom: .6rem;
   text-transform: uppercase;
+  display: block;
+  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 blockquote {
@@ -28,7 +50,7 @@ blockquote:last-of-kind {
 p {
   margin-top: .6rem;
   margin-bottom: .6rem;
-  margin-left: 2rem;
+  margin-left: 4rem;
 }
 
 p+p {
@@ -43,8 +65,10 @@ p+p {
   z-index: 100;
 }
 
-nav ul {
+ul, ol, li {
+  display:  block;
   list-style: none;
   margin: 0;
   padding: 0;
 }
+
