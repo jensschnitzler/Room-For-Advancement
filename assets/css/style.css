@@ -1,6 +1,12 @@
 /* use https://github.com/jensschnitzler/The-Typeface-of-Our-Time/blob/master/assets/css/style.css */
 @import url("https://rawcdn.githack.com/jensschnitzler/The-Typeface-of-Our-Time/47925de45abe014918edc75155161aaf8d97aa08/assets/css/style.css");
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
 blockquote {
   margin: .5rem 0 0 2rem;
 }
@@ -13,6 +19,10 @@ blockquote, blockquote *  {
 
 blockquote:last-of-kind {
   margin-bottom: .5rem;
+}
+
+p {
+  margin-left: 2rem;
 }
 
 p+p {

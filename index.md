@@ -1,3 +1,7 @@
+## Room For Advancement
+
+A compilation of resources for reflecting on labour and workism in the creative industries, especially in graphic design.
+
 *Passion, hustle, performance, success, burnout, alienation, capitalism, precarity, exploitation, illusive promises of self-actualization and enlightment.*
 
 ## Reads
