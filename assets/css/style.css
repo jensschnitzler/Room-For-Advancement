@@ -19,3 +19,9 @@ p+p {
   text-indent: 0;
   margin: .5rem 0 0 0;
 }
+
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
