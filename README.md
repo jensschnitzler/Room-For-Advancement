@@ -4,5 +4,3 @@ A compilation of resources for reflecting on labour and workism in the creative 
 *currently gathering research material*
 
 [View contents on GitHub Page](https://jensschnitzler.github.io/Room-For-Advancement/)
-
-Test

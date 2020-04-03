@@ -143,6 +143,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 ## Pending Books
 
+- Citizen Designer: Perspectives on Design Responsibility: Steven Heller, Veronique Vienne
+
 - Angela McRobbie: Be Creative: Making a Living in the New Culture Industries
 
 - [Isabella Livingston: Herbert Spencer’s labour of love](https://beluga.sub.uni-hamburg.de/vufind/Record/327365242?rank=1)
@@ -168,19 +170,19 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 
 ## Pending Videos
 
-https://vimeo.com/204728326
+- https://vimeo.com/204728326
 
 ## Images
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/musewendi.png)
 
-![](/room-for-advancement/assets/img/klingspor-koch.png)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/klingspor-koch.png)
 
-![](/room-for-advancement/assets/img/friends.png)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/friends.png)
 
-![](/room-for-advancement/assets/img/WhatsApp.jpg)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/WhatsApp.jpg)
 
-![](/room-for-advancement/assets/img/instagram-scheideerevolte.png)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/instagram-scheideerevolte.png)
 
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
@@ -246,51 +248,7 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 [Kat Frankie: A Body of Work]()
 
-## Misc
-
-- https://workingnotworking.com/
-
-- Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
-
-- "The Lost Art of Leisure"
-
-- maybe if I work hard enough, I can be a winner
-
-- I thought there was a way of winning the game. every aspect of life is suffering. kill expectations.
-
-- an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
-
-- http://www.pratichenonaffermative.net/inquiry/en/
-
-- https://precaritypilot.net/
-
-- Citizen Designer: Perspectives on Design Responsibility: Steven Heller, Veronique Vienne
-
-- https://de.wikipedia.org/wiki/Wochenarbeitszeit
-
-- Miriam Cahn: Monatsarbeitszyklus
-
-- Warum scheint Arbtisverweigerung keine Lösung zu sein?
-
-- Ist die Verknüpfung von Identität und Arbeit inherent problematisch?
-
-- Warum und wofür arbeitest du?
-
-- the master's tools will never dismantle the master's house
-
-- "Don't work for assholes. Don't work with assholes." Erik Spiekermann
-
-- Connected Topic: "Mythos und Inszenierung des künstlerischen Genies"
-
-- https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
-
-- conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
-
-- ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
-
-- https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/
-
-- "the master's tools will never dismantle the master's house" - Audre Lorde
+- Prem Krishnamurthy's Spotify Work Playlist
 
 ## Works of Art, Film, Graphic Design related to the topic
 
@@ -313,6 +271,8 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
 
+- http://www.pratichenonaffermative.net/inquiry/en/
+
 ## Network & Institutions
 
 - https://carrotworkers.wordpress.com/
@@ -333,12 +293,60 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - https://www.decolonisingdesign.com/
 
+- http://www.untold-stories.net/?p=
+
+- http://common-interest.ch/
+
+- http://www.beyondchange.ch/front
+
 ## Quotes
 
 - Prem Krishnamurthy: "Am I doing enough?" (Zoom Lecture)
+
+- "Don't work for assholes. Don't work with assholes." Erik Spiekermann
+
+- "the master's tools will never dismantle the master's house" - Audre Lorde
 
 ## Tools
 
 - [OSP: HTML2Print](http://osp.kitchen/tools/html2print/)
 
-## Further Ressources
+## Publications
+
+- https://modesofcriticism.org/
+
+- House of Common Affairs: https://hoca.bigcartel.com/product/the-fourth-estate-utopias-house-of-common-affairs-journal-1
+
+## Misc & Further Ressources
+
+- https://workingnotworking.com/
+
+- Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
+
+- "The Lost Art of Leisure"
+
+- maybe if I work hard enough, I can be a winner
+
+- I thought there was a way of winning the game. every aspect of life is suffering. kill expectations.
+
+- an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
+
+- https://de.wikipedia.org/wiki/Wochenarbeitszeit
+
+- Miriam Cahn: Monatsarbeitszyklus
+
+- Warum scheint Arbeitsverweigerung keine Lösung zu sein?
+
+- Ist die Verknüpfung von Identität und Arbeit inherent problematisch?
+
+- Warum und wofür arbeitest du?
+
+- Connected Topic: "Mythos und Inszenierung des künstlerischen Genies"
+
+- https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
+
+- conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
+
+- ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
+
+- https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/
