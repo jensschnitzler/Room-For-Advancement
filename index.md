@@ -123,6 +123,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 ## Pending Online Articles
 
+- https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
+
 - http://reader.lgru.net/pages/index/
 
 - https://www.thisiscolossal.com/2016/05/how-to-work-better/
@@ -170,7 +172,7 @@ https://vimeo.com/204728326
 
 ## Images
 
-![](/room-for-advancement/assets/img/musewendi.png)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/musewendi.png)
 
 ![](/room-for-advancement/assets/img/klingspor-koch.png)
 
@@ -197,6 +199,8 @@ Src: https://twitter.com/loudandsmart/status/1161792219797499904
 Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 ## Social Media
+
+https://www.instagram.com/p/B7vo6Gdh8Hk/
 
 https://twitter.com/mgoldst/status/1231234970968109057
 
@@ -288,44 +292,53 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - "the master's tools will never dismantle the master's house" - Audre Lorde
 
-## Related Graphic Design
+## Works of Art, Film, Graphic Design related to the topic
 
 - https://jihee-lee.com/WORK-Work-work
-
-## Memes
-
-- https://www.instagram.com/p/BxVAmafBb6x/?igshid=iwqxly290sgb
-
-## Further Ressources
-
-- https://precaritypilot.net/
-
-- Graphic Design Salary Transparency: https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397
-
-- https://twitter.com/uvw_dcw
-
-- https://carrotworkers.wordpress.com/
-
-- https://www.uvwunion.org.uk/culture-design-workers
-
-- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
 
 - https://mama.klassegrafik.de/
 
 - https://filz.works/de/work-collection/she-works-hard
 
-- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
+## Memes
 
-- https://evening-class.org/
+- https://www.instagram.com/p/BxVAmafBb6x/?igshid=iwqxly290sgb
 
-- https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
 
-- https://agd.de/szene/2015/kreativ-und-ausgebrannt
+## Studies, Data & Spreadsheets
+
+- Graphic Design Salary Transparency: https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397
+
+- tiny.cc/designinterns
 
 - https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
 
-- tiny.cc/designinterns
+## Network & Institutions
+
+- https://carrotworkers.wordpress.com/
+
+- https://www.uvwunion.org.uk/design-culture-workers
+
+-- https://twitter.com/uvw_dcw
+
+-- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
+
+- https://precaritypilot.net/
+
+- https://evening-class.org/
+
+- https://www.aiga.org/
+
+- https://depatriarchisedesign.com/
+
+- https://www.decolonisingdesign.com/
+
+## Quotes
+
+- Prem Krishnamurthy: "Am I doing enough?" (Zoom Lecture)
 
 ## Tools
 
 - [OSP: HTML2Print](http://osp.kitchen/tools/html2print/)
+
+## Further Ressources
