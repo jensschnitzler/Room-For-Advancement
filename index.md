@@ -6,6 +6,8 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 ## Reads
 
+[Meriem Benslim: Arbeiten bis zur Erschöpfung](https://www.deutschlandfunk.de/grafikdesigner-arbeiten-bis-zur-erschoepfung.680.de.html?dram:article_id=278497)
+
 [Derek Thompson: Workism Is Making Americans Miserable](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/)
 
 [Anne Helen Petersen: How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
@@ -298,6 +300,8 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 - http://common-interest.ch/
 
 - http://www.beyondchange.ch/front
+
+- http://joaap.org/press/trainingforexploitation.htm
 
 ## Quotes
 
