@@ -147,6 +147,8 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 ## Pending Books
 
+- Creative Labour: Working in the Creative Industries
+
 - Citizen Designer: Perspectives on Design Responsibility: Steven Heller, Veronique Vienne
 
 - Angela McRobbie: Be Creative: Making a Living in the New Culture Industries
@@ -308,6 +310,10 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 - http://joaap.org/press/trainingforexploitation.htm
 
 ## Artists with interesting Work Practices
+
+- Anna Oppermann
+
+- Gustav Metzger
 
 - Andrea Zittel http://zittel.org/
 
