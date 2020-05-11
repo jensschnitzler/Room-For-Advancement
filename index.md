@@ -125,13 +125,15 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 ## Pending Online Articles
 
+- https://www.spikeartmagazine.com/articles/flipping-work
+
+- http://www.ripostemagazine.com/working-smart
+
+- https://032c.com/an-interview-with-john-stepper
+
 - https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
 
 - http://reader.lgru.net/pages/index/
-
-- https://www.thisiscolossal.com/2016/05/how-to-work-better/
-
-- http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-jena.html
 
 - https://toggl.com/timesheets-magazine-berlin/6th-finger-human-side-teamwork/
 
@@ -260,6 +262,8 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - https://filz.works/de/work-collection/she-works-hard
 
+- https://www.thisiscolossal.com/2016/05/how-to-work-better/
+
 ## Memes
 
 - https://www.instagram.com/p/BxVAmafBb6x/?igshid=iwqxly290sgb
@@ -303,6 +307,32 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - http://joaap.org/press/trainingforexploitation.htm
 
+## Artists with interesting Work Practices
+
+- Andrea Zittel http://zittel.org/
+
+- Die glücklichen Arbeitslosen
+https://www.spiegel.de/spiegel/print/d-25776808.html
+
+- Miriam Cahn
+
+- Mierle Laderman Ukeles
+https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles
+„Im Jahr 1969 schrieb sie ein Manifest mit dem Titel Maintenance Art–Proposal for an Exhibition, gerichtet gegen die Rolle der Hausfrauen als Frau am Herd und erklärte sich selbst als eine „Wartungs-Künstlerin“. Wartung ist für Ukeles das Gebiet der menschlicher Aktivitäten, die Dinge in Gang zu halten, wie Kochen, Putzen und Kindererziehung. Zu ihren Auftritten in den 1970er Jahren gehörte die Reinigung von Kunstgalerien.“
+
+- On Kawara ?
+
+- Inga Zimprich
+http://www.ingazimprich.net/
+
+- Helen Mirra
+https://en.wikipedia.org/wiki/Helen_Mirra
+
+- Peter Fischli David Weiss: How to Work Better
+https://www.guggenheim.org/exhibition/peter-fischli-david-weiss-how-to-work-better
+http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-jena.html
+
+
 ## Quotes
 
 - Prem Krishnamurthy: "Am I doing enough?" (Zoom Lecture)
@@ -336,8 +366,6 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 - an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
 
 - https://de.wikipedia.org/wiki/Wochenarbeitszeit
-
-- Miriam Cahn: Monatsarbeitszyklus
 
 - Warum scheint Arbeitsverweigerung keine Lösung zu sein?
 
