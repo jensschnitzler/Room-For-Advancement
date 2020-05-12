@@ -123,27 +123,80 @@ The Rodina: Abolish the Stage of Precarity, On Performance Design (in: Post Medi
 
 [Evening Class](https://www.mixcloud.com/eveningclass/)
 
-## Pending Online Articles
+## Online Reads
 
-- https://www.spikeartmagazine.com/articles/flipping-work
+[FLIPPING WORK](https://www.spikeartmagazine.com/articles/flipping-work
+https://www.spikeartmagazine.com/articles/flipping-work)
 
-- http://www.ripostemagazine.com/working-smart
+> passionate self-exploitation at the entry level of culture work
 
-- https://032c.com/an-interview-with-john-stepper
+[Working Smart](http://www.ripostemagazine.com/working-smart)
 
-- https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/
+> However, if you over-stretch yourself, fatigue starts to kick in, your decision-making can be more emotive, you get sick and getting “into the flow” is a lot trickier. The trick is to recognise the signs of when you’re over-pushing yourself and to take a break. You may be working six days a week, but in reality you might only be productive for four!
 
-- http://reader.lgru.net/pages/index/
+[Manga on overwork hell goes viral in wake of Dentsu suicide reports](https://www.japantimes.co.jp/news/2016/10/28/national/social-issues/manga-overwork-hell-goes-viral-wake-dentsu-suicide-reports/)
 
-- https://toggl.com/timesheets-magazine-berlin/6th-finger-human-side-teamwork/
+> At the time, Shiomachi was a graphic designer at a small advertising company making flyers and posters. Although she enjoyed her job, the workload was tough. Clients sometimes demanded her attention at 3 a.m. or wanted a job completed within six hours.
 
-- https://www.zeit.de/campus/2019-11/psychische-krankheiten-generation-psychotherapie-gesundheit?utm_campaign=ref&wt_zmc=sm.int.zonaudev.facebook.ref.zeitde.redpost_zon.link.sf&utm_term=facebook_zonaudev_int&utm_content=zeitde_redpost_zon_link_sf&utm_source=facebook_zonaudev_int&utm_medium=sm&fbclid=IwAR1dJJLJLLWgC9ER1AFaPky38OdfnivHXoZlZwH2_AlHMLRYAwrE7g2UKzk
+[The Tragic Art of Overworking](https://medium.com/@kstedman_87719/the-tragic-art-of-overworking-50e431047c24)
 
-- https://joaap.org/issue8/chrislee.htm
+> Fiverrs "In Doers We Trust" Campaign Critique
 
-- https://www.e-flux.com/journal/31/68212/general-performance/
+> these individual occurrences make up what has become known as the “tragic” or “tortured” artist — the idea that creatives must inherently be brooding, miserable, lonely souls.
+
+> businessmen are just as familiar with declining mental health and suicide as we perceive artists to be
+
+> artist stereotypes: lonely
+
+[Does Creativity Have to Come from Suffering?](https://onbeing.org/blog/does-creativity-have-to-come-from-suffering/)
+
+> “In the West many people believe that creativity comes from torment, while in the East there is more of a tradition of great art coming from balance and realization.”
+
+> I’ve seen well-known painters sit in intensive meditation retreats, all the while being quite torn about being there because they feared the end result would be losing their edge. I’ve seen writers equate balance with dullness, and peace with torpor. I’ve known actors and musicians who feared contentment because that seemed to them the last step before being asleep.
+
+> good poetry must come from sadness
+
+[The myth of tormented genius: the link between mental health and creativity](https://studentnewspaper.org/the-myth-of-tormented-genius-the-link-between-mental-health-and-creativity/)
+
+> he long 18th century of Romanticism, and the idolisation of a secluded, emotional genius
+
+> the torment that is inseparable from a great talent.
+
+> We live in a society that prioritises productivity above all; where the signs of mental health problems that can lead to disability become somewhat justified, or even normalised if creative value is produced.
+
+[What Does It Mean to Unionize When You’re Your Own Boss?](https://eyeondesign.aiga.org/what-does-it-mean-to-unionize-when-youre-your-own-boss/)
+
+> “Designers also feel very grateful to be within the so called creative class, which can easily lead to people being taken advantage of,”
+
+[The Human Side of Teamwork](https://toggl.com/timesheets-magazine-berlin/6th-finger-human-side-teamwork/)
+
+> I was thinking and reading a lot about collectivism vs. individualism recently and I’ve started connecting these ideas with the feeling of overworking. We are all immersed in this individualistic idea of ‘I made it,’ it's ‘my idea,’ ‘my project,’ ‘my company,’ and I think this is what creates our feelings of missing out and losing time.
+
+[General Performance](https://www.e-flux.com/journal/31/68212/general-performance/)
+
+> When labor becomes general performance, time-as-measure erodes; “flexible working hours” means that all hours are potentially working hours, and every encounter potentially becomes a form of networking and hence self-performance.
+
+>  widen the gap between successful “high performers” and the rest
+
+> The new labor is marked by the inability to distinguish between labor and leisure, between work and occupation, between working hours and free time—between performance and life.
+
+[Educated, overworked, underpaid: Graphic Designers Surveyed](https://www.itsnicethat.com/news/graphic-designers-surveyed-results-150116)
+
+## Pending Online Reads
+
+- https://www.creativeboom.com/tips/how-to-be-successful-without-working-too-hard/
+
+- https://www.forbes.com/sites/piasilva/2017/07/07/the-not-so-secret-reason-youre-overworked-and-underpaid/#351a4a824e89
+
+- https://www.e-flux.com/journal/77/76185/why-are-people-being-so-nice/
 
 - https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
+
+[The Mad Genius Stereotype: Still Alive and Well](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00368/full)
+
+[Considering your tools](http://reader.lgru.net/pages/index/)
+
+- https://www.zeit.de/campus/2019-11/psychische-krankheiten-generation-psychotherapie-gesundheit?utm_campaign=ref&wt_zmc=sm.int.zonaudev.facebook.ref.zeitde.redpost_zon.link.sf&utm_term=facebook_zonaudev_int&utm_content=zeitde_redpost_zon_link_sf&utm_source=facebook_zonaudev_int&utm_medium=sm&fbclid=IwAR1dJJLJLLWgC9ER1AFaPky38OdfnivHXoZlZwH2_AlHMLRYAwrE7g2UKzk
 
 ## Pending Books
 
@@ -388,3 +441,7 @@ http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-
 - ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
 
 - https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/
+
+- [Karōshi](https://de.wikipedia.org/wiki/Kar%C5%8Dshi)
+
+- "Travaillez toujours"
