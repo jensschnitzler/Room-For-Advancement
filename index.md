@@ -182,17 +182,27 @@ https://www.spikeartmagazine.com/articles/flipping-work)
 
 [Educated, overworked, underpaid: Graphic Designers Surveyed](https://www.itsnicethat.com/news/graphic-designers-surveyed-results-150116)
 
+[Why Are People Being So Nice?](https://www.e-flux.com/journal/77/76185/why-are-people-being-so-nice/)
+
+[Die Unruhe ist eine Passion](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2015/faulheit/die-unruhe-ist-eine-passion?utm_source=facebook&utm_medium=post&utm_campaign=dailylink)
+
+[The Mad Genius Stereotype: Still Alive and Well](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00368/full)
+
 ## Pending Online Reads
+
+- https://eyeondesign.aiga.org/how-are-outdated-notions-of-masculinity-affecting-the-design-industry/
+
+- https://creativeconfessions.org/
+
+- https://trust.support/watch/vertical-unions
+
+- https://www.nytimes.com/2019/09/25/opinion/wework-adam-neumann.html
 
 - https://www.creativeboom.com/tips/how-to-be-successful-without-working-too-hard/
 
 - https://www.forbes.com/sites/piasilva/2017/07/07/the-not-so-secret-reason-youre-overworked-and-underpaid/#351a4a824e89
 
-- https://www.e-flux.com/journal/77/76185/why-are-people-being-so-nice/
-
 - https://www.e-flux.com/journal/20/67638/towards-the-space-of-the-general-on-labor-beyond-materiality-and-immateriality/
-
-[The Mad Genius Stereotype: Still Alive and Well](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00368/full)
 
 [Considering your tools](http://reader.lgru.net/pages/index/)
 
@@ -232,6 +242,8 @@ digital age](https://www.ssoar.info/ssoar/bitstream/handle/document/55107/ssoar-
 - https://vimeo.com/204728326
 
 ## Images
+
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/painting.png)
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/musewendi.png)
 
@@ -363,6 +375,9 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 - http://joaap.org/press/trainingforexploitation.htm
 
 ## Artists with interesting Work Practices
+
+- Sister Corita Kent
+https://391.org/manifestos/immaculate-heart-college-art-department-rules-1965-1968/
 
 - Anna Oppermann
 
