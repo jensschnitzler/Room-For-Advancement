@@ -10,11 +10,11 @@ Am I Doing Enough?
 
 ## Sources
 
-[Table of Sources](https://docs.google.com/spreadsheets/d/1IqLLaUaRhqJpHR8ml9jSb5VJfaspAF9JilgFLT-vCHg/edit?usp=sharing)
+[Table of Sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7bBYO8SOf7jYF_K49wVz00o4DBQLFRgBPpTb5QC9_k-wP5ukoDHHxFyDjBse5zKbld5SK9DTDYICy/pubhtml?gid=0&single=true)
 
 ## Images & Memes
 
-- https://www.instagram.com/p/BxVAmafBb6x/?igshid=iwqxly290sgb
+![](https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/e35/60081638_2372717886348459_3018793371086580118_n.jpg?_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=h2-vlWqjxFsAX_2OjEZ&oh=2ea9669cf92ee13394f44558caab6a67&oe=5EEB4448)
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/painting.png)
 
@@ -94,7 +94,7 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - Prem Krishnamurthy's Spotify Work Playlist
 
-## Works of Art, Film, Graphic Design related to the topic
+## Works: Works of Art, Film, Graphic Design related to the topic
 
 - https://jihee-lee.com/WORK-Work-work
 
@@ -104,7 +104,7 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - https://www.thisiscolossal.com/2016/05/how-to-work-better/
 
-## Studies, Data & Spreadsheets
+## Data: Studies, Spreadsheets
 
 - Graphic Design Salary Transparency: https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397
 
@@ -114,13 +114,11 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - http://www.pratichenonaffermative.net/inquiry/en/
 
-## Publications
+## Institutions: Networks, Publications, Exhibitions
 
 - https://modesofcriticism.org/
 
 - House of Common Affairs: https://hoca.bigcartel.com/product/the-fourth-estate-utopias-house-of-common-affairs-journal-1
-
-## Network & Institutions
 
 - https://creativeconfessions.org/
 
@@ -150,7 +148,11 @@ https://twitter.com/loudandsmart/status/1161792219797499904
 
 - http://joaap.org/press/trainingforexploitation.htm
 
-## Artists with interesting Work Practices
+- http://cargocollective.com/this-is-work
+
+- Kunstgewerbemuseum: Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" - Jesko Fezer
+
+## People: Artists with interesting Work Practices
 
 - Sister Corita Kent
 https://391.org/manifestos/immaculate-heart-college-art-department-rules-1965-1968/
@@ -181,6 +183,9 @@ https://en.wikipedia.org/wiki/Helen_Mirra
 - Peter Fischli David Weiss: How to Work Better
 https://www.guggenheim.org/exhibition/peter-fischli-david-weiss-how-to-work-better
 http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-jena.html
+
+- Art Workers' Coalition
+https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 ## Quotes
 
