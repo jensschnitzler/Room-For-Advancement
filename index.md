@@ -6,7 +6,19 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 ## Alternative Titles
 
-Am I Doing Enough?
+- Am I Doing Enough?
+
+- Midnight Oil
+
+- Travaillez toujours
+
+## Abstract
+
+How do you stay sane assuming that all that limits you is your personal ambition? How do you stop the question “Am I doing enough?” from constantly haunting you and draining the joy out of work?
+
+There is an urge and obligation to take every of the seemingly endless opportunities, that offer themselves to you. The potential for personal advancement is always within reach, promising the ascent to the next step of the ladder. You can always work more, learn more, show more, post more, achieve more, be more active, be more invested, be more present, be more productive and aim higher. It is up to you but it is not optional. Because not doing so is sinning. Because a moment of lazyness, a missed chance, an unused opportunity means failing at self-actualization, not tapping your full personal potential and living a life of inferior quality.
+
+Is it possible to cultivate personal sustainability, that immunizes against the pressuring feeling of insufficiency? How do you reject the notion that total exhaustion is the only valid reason to ever take a break?
 
 ## Sources
 
@@ -44,7 +56,7 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09]
 
 ![](https://pbs.twimg.com/media/EM9n10xX0AEh6W6?format=png&name=small)
 
-## Tweets
+## Twitter
 
 [https://twitter.com/mgoldst/status/1231234970968109057]
 
@@ -57,6 +69,10 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09]
 [https://twitter.com/PennyRed/status/1202281220262047744]
 
 [https://twitter.com/MuseWendi/status/1200459770370707459]
+
+## Reddit
+
+[https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/]
 
 ## Music
 
@@ -94,9 +110,13 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09]
 
 - [tiny.cc/designinterns]
 
+- [https://designcensus.org/]
+
 - [https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf]
 
 - [http://www.pratichenonaffermative.net/inquiry/en/]
+
+- [https://umfrage.markenpersonal.de/5/?fbclid=IwAR25iupptwMUKvqAvS8wCwPG1NGD_CEt6D4e5uj8apbmmE0vzMpLOGm5Ncc]
 
 ## Institutions: Networks, Publications, Exhibitions
 
@@ -134,7 +154,7 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09]
 
 - [http://cargocollective.com/this-is-work]
 
-- Kunstgewerbemuseum: Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" - Jesko Fezer
+- Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" / Kunstgewerbemuseum / Jesko Fezer
 
 ## People: Artists with interesting Work Practices
 
@@ -213,15 +233,15 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 - [https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/]
 
-- conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
-
-- ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
-
-- [https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/]
-
 - [Karōshi](https://de.wikipedia.org/wiki/Kar%C5%8Dshi)
 
-- "Travaillez toujours"
+## Ideas
+
+- conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
+
+## Discarded Ideas
+
+- ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
 
 ## Notes
 
