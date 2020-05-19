@@ -40,19 +40,15 @@ Src: https://twitter.com/loudandsmart/status/1161792219797499904
 ![](https://pbs.twimg.com/media/EDEDwR9XYAEsZaS?format=jpg&name=small)
 Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
-https://www.instagram.com/p/B7vo6Gdh8Hk/
+[https://www.instagram.com/p/B7vo6Gdh8Hk/](https://www.instagram.com/p/B7vo6Gdh8Hk/)
 
-## Social Media
+![](https://pbs.twimg.com/media/EM9n10xX0AEh6W6?format=png&name=small)
+
+## Tweets
 
 https://twitter.com/mgoldst/status/1231234970968109057
 
-https://twitter.com/aggietoppins/status/1229613840574353411
-
 https://twitter.com/David_Rudnick/status/1224083086150971392
-
-https://twitter.com/LaurenKGurley/status/1223745441952608256
-
-https://twitter.com/itsnicethat/status/1211301000855871493
 
 https://twitter.com/dnf/status/1209999608794902529
 
@@ -61,14 +57,6 @@ https://twitter.com/marteimer/status/1209935873669836802
 https://twitter.com/PennyRed/status/1202281220262047744
 
 https://twitter.com/MuseWendi/status/1200459770370707459
-
-https://twitter.com/HerrSchmitz/status/1199994790915510272
-
-https://twitter.com/evening_class/status/1192406013737132032
-
-https://twitter.com/laurawies/status/1164157875868098561
-
-https://twitter.com/loudandsmart/status/1161792219797499904
 
 ## Music
 
