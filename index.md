@@ -33,12 +33,12 @@ Am I Doing Enough?
 ![](https://pbs.twimg.com/media/Dm97ESQW0AIACqS?format=jpg&name=900x900)
 
 ![](https://pbs.twimg.com/media/EB-D3XgWkAEPZZW?format=jpg&name=medium)
-Src: https://twitter.com/loudandsmart/status/1161792219797499904
+Src: [https://twitter.com/loudandsmart/status/1161792219797499904]
 
 ![](https://networkcultures.org/entreprecariat/wp-content/uploads/sites/41/2017/02/graphic_design_is_my_passion.png)
 
 ![](https://pbs.twimg.com/media/EDEDwR9XYAEsZaS?format=jpg&name=small)
-Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
+Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09]
 
 [https://www.instagram.com/p/B7vo6Gdh8Hk/]
 
@@ -78,74 +78,74 @@ Src: https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09
 
 - Prem Krishnamurthy's Spotify Work Playlist
 
-## Works: Works of Art, Film, Graphic Design related to the topic
+## Works: Works (of Art, Film, Graphic Design) related to the topic of "Work"
 
-- https://jihee-lee.com/WORK-Work-work
+- [https://jihee-lee.com/WORK-Work-work]
 
-- https://mama.klassegrafik.de/
+- [https://mama.klassegrafik.de/]
 
-- https://filz.works/de/work-collection/she-works-hard
+- [https://filz.works/de/work-collection/she-works-hard]
 
-- https://www.thisiscolossal.com/2016/05/how-to-work-better/
+- [https://www.thisiscolossal.com/2016/05/how-to-work-better/]
 
 ## Data: Studies, Spreadsheets
 
-- Graphic Design Salary Transparency: https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397
+- Graphic Design Salary Transparency: [https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397]
 
-- tiny.cc/designinterns
+- [tiny.cc/designinterns]
 
-- https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf
+- [https://www.designtagebuch.de/wp-content/uploads/studie/Studie-Designer_und_ihre_Arbeit.pdf]
 
-- http://www.pratichenonaffermative.net/inquiry/en/
+- [http://www.pratichenonaffermative.net/inquiry/en/]
 
 ## Institutions: Networks, Publications, Exhibitions
 
-- https://modesofcriticism.org/
+- [https://modesofcriticism.org/]
 
-- House of Common Affairs: https://hoca.bigcartel.com/product/the-fourth-estate-utopias-house-of-common-affairs-journal-1
+- House of Common Affairs: [https://hoca.bigcartel.com/product/the-fourth-estate-utopias-house-of-common-affairs-journal-1]
 
-- https://creativeconfessions.org/
+- [https://creativeconfessions.org/]
 
-- https://carrotworkers.wordpress.com/
+- [https://carrotworkers.wordpress.com/]
 
-- https://www.uvwunion.org.uk/design-culture-workers
+- [https://www.uvwunion.org.uk/design-culture-workers]
 
--- https://twitter.com/uvw_dcw
+-- [https://twitter.com/uvw_dcw]
 
--- https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design
+-- [https://www.are.na/margherita-huntley/a-trade-union-for-graphic-design]
 
-- https://precaritypilot.net/
+- [https://precaritypilot.net/]
 
-- https://evening-class.org/
+- [https://evening-class.org/]
 
-- https://www.aiga.org/
+- [https://www.aiga.org/]
 
-- https://depatriarchisedesign.com/
+- [https://depatriarchisedesign.com/]
 
-- https://www.decolonisingdesign.com/
+- [https://www.decolonisingdesign.com/]
 
-- http://www.untold-stories.net/?p=
+- [http://www.untold-stories.net/?p=]
 
-- http://common-interest.ch/
+- [http://common-interest.ch/]
 
-- http://www.beyondchange.ch/front
+- [http://www.beyondchange.ch/front]
 
-- http://joaap.org/press/trainingforexploitation.htm
+- [http://joaap.org/press/trainingforexploitation.htm]
 
-- http://cargocollective.com/this-is-work
+- [http://cargocollective.com/this-is-work]
 
 - Kunstgewerbemuseum: Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" - Jesko Fezer
 
 ## People: Artists with interesting Work Practices
 
 - Sister Corita Kent
-https://391.org/manifestos/immaculate-heart-college-art-department-rules-1965-1968/
+https://391.org/manifestos/immaculate-heart-college-art-department-rules-1965-1968/]
 
 - Anna Oppermann
 
 - Gustav Metzger
 
-- Andrea Zittel http://zittel.org/
+- Andrea Zittel [http://zittel.org/]
 
 - Die glücklichen Arbeitslosen
 https://www.spiegel.de/spiegel/print/d-25776808.html
@@ -159,7 +159,7 @@ https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles
 - On Kawara ?
 
 - Inga Zimprich
-http://www.ingazimprich.net/
+http://www.ingazimprich.net/]
 
 - Helen Mirra
 https://en.wikipedia.org/wiki/Helen_Mirra
@@ -189,7 +189,7 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 [daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
-- https://workingnotworking.com/
+- [https://workingnotworking.com/]
 
 - Parallele zu Ende des 19. Jahrhunderts: Arbeiterbewegung, Entwicklung der Freizeitindustrie (Vergnügungsparks, Kino, ...)
 
@@ -201,7 +201,7 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 - an Berufsverbände und Branchen-Publikationen herantreten und Informationen zur kritischen Auseinandersetzung mit Arbeitskultur sammeln
 
-- https://de.wikipedia.org/wiki/Wochenarbeitszeit
+- [https://de.wikipedia.org/wiki/Wochenarbeitszeit
 
 - Warum scheint Arbeitsverweigerung keine Lösung zu sein?
 
@@ -211,13 +211,13 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 - Connected Topic: "Mythos und Inszenierung des künstlerischen Genies"
 
-- https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/
+- [https://eyeondesign.aiga.org/creativity-insomnia-an-exhausting-and-very-familiar-double-act/]
 
 - conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
 
 - ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
 
-- https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/
+- [https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/]
 
 - [Karōshi](https://de.wikipedia.org/wiki/Kar%C5%8Dshi)
 
