@@ -14,11 +14,19 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 ## Abstract
 
-How do you stay sane assuming that all that limits you is your personal ambition? How do you stop the question “Am I doing enough?” from constantly haunting you and draining the joy out of work?
+Generally you enjoy the work that you are doing on a day-by-day basis. You voluntarily and deliberately chose your field of work and you have no intention of quitting it. Improving your methods, strengthening your skills and deepening your knowledge (hence becoming a better worker) is something you are honestly look forward to. You consider yourself lucky because of this.
+
+Then again you hate work. You hate the overidentification with the products of work, whose value (hence yourself's own value) is measured rather by public peer affirmation than by real-world contribution. You hate the winner-takes-it-all mentality, which is embedded in our cultural definition of personal success. You hate the celebration of competitive performative workaholism. You just hate the pressure that comes with all that.
+
+“No pressure, no diamonds!”, he says. We need that work culture which stimulates adversity and distress. Only the pressure pushes you to excel, to go further and beyond, to create the extreme, the outstanding, the valuable.
+
+Pressure boosting stimuli are not in short supply. So while increasing the pressure on yourself would be fairly easy, reducing it – once you immersed yourself into the given work culture – can be a bit of a hassle.
+
+Once you internalized the capitalist notion of the productivity-success-happiness relationship and potential limitless personal growth, aren't you heading straight into misery, depression and burn-out? How do you stay sane assuming that all that limits you is your personal ambition? How do you stop the question “Am I doing enough?” from constantly haunting you and draining the joy out of work?
 
 There is an urge and obligation to take every of the seemingly endless opportunities, that offer themselves to you. The potential for personal advancement is always within reach, promising the ascent to the next step of the ladder. You can always work more, learn more, show more, post more, achieve more, be more active, be more invested, be more present, be more productive and aim higher. It is up to you but it is not optional. Because not doing so is sinning. Because a moment of lazyness, a missed chance, an unused opportunity means failing at self-actualization, not tapping your full personal potential and living a life of inferior quality.
 
-Is it possible to cultivate personal sustainability, that immunizes against the pressuring feeling of insufficiency? How do you reject the notion that total exhaustion is the only valid reason to ever take a break?
+How do you reject the notion that total exhaustion is the only valid reason to ever take a break? Is it possible to cultivate a habitat of personal sustainability, immunizing against the pressuring feeling of insufficiency and keeping the joy in work?
 
 ## Sources
 
@@ -119,6 +127,8 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 - [https://umfrage.markenpersonal.de/5/?fbclid=IwAR25iupptwMUKvqAvS8wCwPG1NGD_CEt6D4e5uj8apbmmE0vzMpLOGm5Ncc](https://umfrage.markenpersonal.de/5/?fbclid=IwAR25iupptwMUKvqAvS8wCwPG1NGD_CEt6D4e5uj8apbmmE0vzMpLOGm5Ncc)
 
 ## Institutions: Networks, Publications, Exhibitions
+
+- [https://commonknowledge.coop/writing/](https://commonknowledge.coop/writing/)
 
 - [https://modesofcriticism.org/](https://modesofcriticism.org/)
 
@@ -233,9 +243,12 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 - [Karōshi](https://de.wikipedia.org/wiki/Kar%C5%8Dshi)
 
+- We live and work in a culture in which the idea of potentially limitless growth is not only determining economics but it also increasingly takes over our personal self-concept.
+
 ## Ideas
 
 - conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
+
 
 ## Discarded Ideas
 
