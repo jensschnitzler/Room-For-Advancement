@@ -171,6 +171,7 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 - [http://cargocollective.com/this-is-work](http://cargocollective.com/this-is-work)
 
 - Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" / Kunstgewerbemuseum / Jesko Fezer
+[https://www.smb.museum/ausstellungen/detail/design-lab-6/](https://www.smb.museum/ausstellungen/detail/design-lab-6/)
 
 ## People: Artists with interesting Work Practices
 
