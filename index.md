@@ -34,6 +34,12 @@ How do you reject the notion that total exhaustion is the only valid reason to e
 
 ## Images & Memes
 
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/Stroemquist-1.jpeg)
+
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/Stroemquist-2.jpeg)
+
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/Stroemquist-3.jpeg)
+
 ![](https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/e35/60081638_2372717886348459_3018793371086580118_n.jpg?_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=h2-vlWqjxFsAX_2OjEZ&oh=2ea9669cf92ee13394f44558caab6a67&oe=5EEB4448)
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/painting.png)
