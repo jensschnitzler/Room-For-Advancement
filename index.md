@@ -173,6 +173,14 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 - Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" / Kunstgewerbemuseum / Jesko Fezer
 [https://www.smb.museum/ausstellungen/detail/design-lab-6/](https://www.smb.museum/ausstellungen/detail/design-lab-6/)
 
+## People: I would like to talk to
+
+- Silvio Lorusso https://silviolorusso.com/
+
+- Timo Hinze
+
+- neuroticarsehole https://twitter.com/neuroticarsehol
+
 ## People: Artists with interesting Work Practices
 
 - Sister Corita Kent
@@ -202,8 +210,12 @@ http://www.ingazimprich.net/]
 https://en.wikipedia.org/wiki/Helen_Mirra
 
 - Peter Fischli David Weiss: How to Work Better
-https://www.guggenheim.org/exhibition/peter-fischli-david-weiss-how-to-work-better
-http://christianerekade.blogspot.com/2009/02/how-to-work-better-intershop-tower-jena.html
+
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/fischli-how-to-fischli-weiss.jpg)
+
+Soure: https://www.textpistols.ch/wp-content/themes/boilerplate-wf/inc/getPost_gerne.php?_pid=1534
+
+Photographer: unknown
 
 - Art Workers' Coalition
 https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
@@ -221,7 +233,9 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 - (OSP: HTML2Print)[OSP: HTML2Print](http://osp.kitchen/tools/html2print/)
 
 ## Misc & Further Ressources
+
  (Soviet Propaganda)[Soviet Propaganda](https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride)
+
  (daily dose of inspiration)[daily dose of inspiration](https://www.creativeboom.com/inspiration/90-instagram-accounts-to-follow-for-daily-graphic-design-inspiration/)
 
 - [https://workingnotworking.com/](https://workingnotworking.com/)
