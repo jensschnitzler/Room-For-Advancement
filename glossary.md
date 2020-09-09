@@ -32,6 +32,8 @@ Brand
 
 ### C
 
+Cake (reference to the bakery metaphor in Deutsch & Japaner talk in Brno)
+
 Capitalism
 
 Classism
@@ -92,6 +94,8 @@ Gigs
 
 Graphic Design
 
+Growth ("Akkumulations- und Wachstumszwang im Kapitalismus")
+
 ### H
 
 Hard
@@ -101,6 +105,8 @@ Hustle
 ### I
 
 Ideas
+
+Improvement ("How to work better")
 
 Industries
 
@@ -164,13 +170,15 @@ Pay
 
 Perfectionism
 
-Performance
+Performance ("On Performance Design", "General Perfomance", Instagram Images)
 
 Practice
 
 Precarity
 
 Pressure
+
+Productivity
 
 Professional
 
@@ -231,6 +239,8 @@ Unions
 ### V
 
 Visual
+
+Vita Activa (Hannah Arendt)
 
 ### W
 
