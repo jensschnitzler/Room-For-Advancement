@@ -88,26 +88,6 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 
 [https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/](https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/)
 
-## Music
-
-[Britney Spears: Work Bitch](https://www.youtube.com/watch?v=pt8VYOfr8To)
-
-[Merle Travis: Sixteen Tons](https://www.youtube.com/watch?v=eUXc7LMo_TA)
-
-[RuPaul: Supermodel (You Better Work)](https://www.youtube.com/watch?v=Vw9LOrHU8JI)
-
-[Kill The Noise & Feed Me: I Do Coke](https://www.youtube.com/watch?v=oSPT27XyY1U)
-
-[Deichkind: Bück Dich Hoch](https://www.youtube.com/watch?v=8Q44P_Qbq9o)
-
-[Geier Sturzflug: Bruttosozialprodukt](https://www.youtube.com/watch?v=K3vgNYtu8Kk)
-
-[Dolly Parton: 9 to 5](https://www.youtube.com/watch?v=UbxUSsFXYo4)
-
-[Kat Frankie: A Body of Work]()
-
-- Prem Krishnamurthy's Spotify Work Playlist
-
 ## Works: Works (of Art, Film, Graphic Design) related to the topic of "Work"
 
 - [https://jihee-lee.com/WORK-Work-work](https://jihee-lee.com/WORK-Work-work)

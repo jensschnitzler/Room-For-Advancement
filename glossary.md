@@ -1,4 +1,3 @@
-
 ## Glossary
 
 ### A
@@ -118,6 +117,8 @@ Job
 ### L
 
 Labour
+
+Labourism
 
 Lifestyle
 
