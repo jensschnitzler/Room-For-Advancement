@@ -6,6 +6,8 @@ Achievement
 
 Adobe
 
+Agency
+
 Alienation
 
 Ambassador
@@ -31,6 +33,8 @@ Brand
 ### C
 
 Capitalism
+
+Classism
 
 Collective
 
@@ -114,11 +118,15 @@ Job
 
 ### K
 
+Karōshi
+
 ### L
 
 Labour
 
 Labourism
+
+Leverage
 
 Lifestyle
 
@@ -134,11 +142,13 @@ Meritocracy
 
 Millenials
 
-Miserable
+Misery, Miserable
 
 ### N
 
 Neoliberal
+
+New Work
 
 Norms
 

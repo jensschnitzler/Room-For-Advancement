@@ -153,14 +153,6 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 - Design Lab #6 "(How) do we (want to) work (together) (as (socially engaged) designers (students and neighbours)) (in neoliberal times)?" / Kunstgewerbemuseum / Jesko Fezer
 [https://www.smb.museum/ausstellungen/detail/design-lab-6/](https://www.smb.museum/ausstellungen/detail/design-lab-6/)
 
-## People: I would like to talk to
-
-- Silvio Lorusso https://silviolorusso.com/
-
-- Timo Hinze
-
-- neuroticarsehole https://twitter.com/neuroticarsehol
-
 ## People: Artists with interesting Work Practices
 
 - Sister Corita Kent
@@ -250,12 +242,17 @@ https://en.wikipedia.org/wiki/Art_Workers%27_Coalition
 
 - conduct interviews about work culture with 3 known and experienced graphic designers (e.g. Eike König, Jakob Kirch, Sandra Döller), alternatively ask for essays and images
 
-
 ## Discarded Ideas
 
 - ask former interns of famous graphic design studios to comment on their impression of the work culture (anonimously?)
 
 ## Notes
+
+[Jennifer Szalai:	How the ‘Temp’ Economy Became the New Normal](https://www.nytimes.com/2018/08/22/books/review-temp-louis-hyman.html)
+
+> “Temp” traces how, for corporations and government policymakers alike, “the risk-taking entrepreneur supplanted the risk-averse, but loyal, company man as the capitalist ideal.”
+
+> As a former McKinsey consultant himself, Hyman likens associates to highly paid temps. They were indoctrinated to believe that “insecurity” was a goad for “excellence.” “A brutal lifestyle became a filter for becoming a successful consultant,” he writes, recalling colleagues who sacrificed their marriages and family lives in the process. “The people who reorganized corporations, by this filter, had little respect for stability.”
 
 [Nastia Voynovskaya: Why Do Employers Lowball Creatives? A New Study Has Answers](https://www.kqed.org/arts/13857471/artist-passion-exploitation-duke-study)
 
