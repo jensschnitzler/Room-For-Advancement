@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="https://raw.githubusercontent.com/jensschnitzler/The-Typeface-of-Our-Time/master/assets/css/style.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
+  <body class="">
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <nav class="sticky">
@@ -32,7 +32,13 @@
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.name }}</a></li>
         {% endfor %}
       </ul>
+      <ul>
+
+      </ul>
     </nav>
+
+    <h1>{{ page.food }}</h1>
+    <h1>{{ page.title }}</h1>
 
     <!--
 
