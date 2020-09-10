@@ -1,5 +1,7 @@
 ## Glossary
 
+Words for talking about graphic design work.
+
 ### A
 
 Achievement
@@ -172,6 +174,8 @@ Perfectionism
 
 Performance ("On Performance Design", "General Perfomance", Instagram Images)
 
+Pitch
+
 Practice
 
 Precarity
@@ -203,6 +207,8 @@ Schools
 Self-Actualization
 
 Self-Exploitation
+
+Sick
 
 Sleep
 
