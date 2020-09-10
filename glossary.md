@@ -107,7 +107,10 @@ The baker's dream is to specialize in the production of beautiful, fancy cakes. 
 
 #### Hard
 
-#### Hustle
+#### Hustle, Hustle Culture
+
+To be a real hustler, you need the hustler mindset. This includes being entrepreneurial, being exceptionally hard-working, separating all human beings into either inferior losers or superior winners, striving at all cost to be part of the latter, delusionally believing that they, too, can be successful, if they try hard enough and work smart and expecting universal personal happiness and wealth as a trophy at the end of that road.
+Further Reading: Erin Griffith, Why Are Young People Pretending to Love Work? (https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html)
 
 ### I
 
