@@ -34,7 +34,7 @@ Words that help to talk about graphic design work.
 
 ### C
 
-#### Cake (reference to the bakery metaphor in Deutsch & Japaner talk in Brno)
+#### Cake
 
 The cake refers to a metaphor in which a young design studio is compared to a bakery and which goes as follows:
 The baker's dream is to specialize in the production of beautiful, fancy cakes. But to their disappointment all the customers coming to the store only ever demand is ugly, boring bread. Under the pressure of living expenses the baker has no other choice than to obey the demand. In spite of the lack of client demand however whenever the baker finds time they bake a marvelous, self-initiated cake, just to display it in the shop window. After a while the bakery gets that cake reputation and is able to attract respective clients, who favor the exact type of pastries the bakery always dreamed of offering.
