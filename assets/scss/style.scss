@@ -112,21 +112,23 @@ footer {
 body.glossary {
   main {
     max-width: 50rem;
-    padding: 4rem;
+    //padding: 4rem;
   }
   h3 {
-    font-size: 4rem;
-    position: absolute;
+    //font-size: 4rem;
+    //position: absolute;
     left: 0;
-    height: 0;
+    //height: 0;
     overflow: visible;
-    border-top: 1px solid black;
+    //border-top: 1px solid black;
   }
   h4 {
     text-transform: none;
+    padding-left: 4rem;
   }
   p {
     margin-left: 0;
-    padding: 0 3rem 0 4rem;
+    padding-left: 8rem;
+    //padding: 0 3rem 0 4rem;
   }
 }
