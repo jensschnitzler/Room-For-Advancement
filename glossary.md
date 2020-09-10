@@ -1,273 +1,275 @@
 ## Glossary
 
-Words for talking about graphic design work.
+Words that help to talk about graphic design work.
 
 ### A
 
-Achievement
+#### Achievement
 
-Adobe
+#### Adobe
 
-Agency
+#### Agency
 
-Alienation
+#### Alienation
 
-Ambassador
+#### Ambassador
 
-Ambition
+#### Ambition
 
-Artists
+#### Artists
 
-Aspirations
+#### Aspirations
 
-Associations
+#### Associations
 
-Automation
+#### Automation
 
-Avantgarde
+#### Avantgarde
 
 ### B
 
-Burnout
+#### Burnout
 
-Brand
+#### Brand
 
 ### C
 
-Cake (reference to the bakery metaphor in Deutsch & Japaner talk in Brno)
+#### Cake (reference to the bakery metaphor in Deutsch & Japaner talk in Brno)
 
-Capitalism
+#### Capitalism
 
-Classism
+#### Classism
 
-Collective
+#### Collective
 
-Company
+#### Company
 
-Competition
+#### Competition
 
-Cooperation
+#### Cooperation
 
-Cost
+#### Cost
 
-create
+#### create
 
-Creatives
+#### Creatives
 
-Creator
+#### Creator
 
-Critical
+#### Critical
 
 ### D
 
-Democratization
+#### Democratization
 
-Depression
+#### Depression
 
-Design
+#### Design
 
 ### E
 
-Entreprecariat
+#### Entreprecariat
 
-Employers
+#### Employers
 
-Exploitation
+#### Enlightment
 
-Existential
+#### Exploitation
+
+#### Existential
 
 ### F
 
-Factory
+#### Factory
 
-Form
+#### Form
 
-Free
+#### Free
 
-Fulfillment
+#### Fulfillment
 
 ### G
 
-Genius
+#### Genius
 
-Gig-Economy
+#### Gig-Economy
 
-Gigs
+#### Gigs
 
-Graphic Design
+#### Graphic Design
 
-Growth ("Akkumulations- und Wachstumszwang im Kapitalismus")
+#### Growth ("Akkumulations- und Wachstumszwang im Kapitalismus")
 
 ### H
 
-Hard
+#### Hard
 
-Hustle
+#### Hustle
 
 ### I
 
-Ideas
+#### Ideas
 
-Improvement ("How to work better")
+#### Improvement ("How to work better")
 
-Industries
+#### Industries
 
-Insufficiency
+#### Insufficiency
 
-Intellectual
+#### Intellectual
 
-Intellectualization
+#### Intellectualization
 
-Interns
+#### Interns
 
 ### J
 
-Job
+#### Job
 
 ### K
 
-Karōshi
+#### Karōshi
 
 ### L
 
-Labour
+#### Labour
 
-Labourism
+#### Labourism
 
-Leverage
+#### Leverage
 
-Lifestyle
+#### Lifestyle
 
-Love
+#### Love
 
-Low-Paying
+#### Low-Paying
 
 ### M
 
-Meaning
+#### Meaning
 
-Meritocracy
+#### Meritocracy
 
-Millenials
+#### Millenials
 
-Misery, Miserable
+#### Misery, Miserable
 
 ### N
 
-Neoliberal
+#### Neoliberal
 
-New Work
+#### New Work
 
-Norms
+#### Norms
 
 ### O
 
-Organize
+#### Organize
 
 ### P
 
-Passion
+#### Passion
 
-Pay
+#### Pay
 
-Perfectionism
+#### Perfectionism
 
-Performance ("On Performance Design", "General Perfomance", Instagram Images)
+#### Performance ("On Performance Design", "General Perfomance", Instagram Images)
 
-Pitch
+#### Pitch
 
-Practice
+#### Practice
 
-Precarity
+#### Precarity
 
-Pressure
+#### Pressure
 
-Productivity
+#### Productivity
 
-Professional
+#### Professional
 
-Projection
+#### Projection
 
 ### Q
 
 ### R
 
-Realization
+#### Realization
 
-Relativism
+#### Relativism
 
-Revolution
+#### Revolution
 
-Reward
+#### Reward
 
 ### S
 
-Schools
+#### Schools
 
-Self-Actualization
+#### Self-Actualization
 
-Self-Exploitation
+#### Self-Exploitation
 
-Sick
+#### Sick
 
-Sleep
+#### Sleep
 
-Socioeconomic
+#### Socioeconomic
 
-Stage
+#### Stage
 
-Standardisation
+#### Standardisation
 
-Startupper
+#### Startupper
 
-Subversion
+#### Subversion
 
-Success
+#### Success
 
-Systematic
+#### Systematic
 
 ### T
 
-Talent
+#### Talent
 
-Template
+#### Template
 
-Time
+#### Time
 
-Tools
+#### Tools
 
 ### U
 
-Unpaid
+#### Unpaid
 
-Unions
+#### Unions
 
 ### V
 
-Visual
+#### Visual
 
-Vita Activa (Hannah Arendt)
+#### Vita Activa (Hannah Arendt)
 
 ### W
 
-Wages
+#### Wages
 
-WeWork
+#### WeWork
 
-Work
+#### Work
 
-Worker
+#### Worker
 
-Workism
+#### Workism
 
-Worth
+#### Worth
 
 ### X
 
 ### Y
 
-Young
+#### Young
 
-Youth
+#### Youth
 
 ### Z

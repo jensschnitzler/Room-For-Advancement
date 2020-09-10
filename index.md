@@ -16,13 +16,13 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 ## Abstract
 
-Generally you enjoy the work that you are doing on a day-by-day basis. You voluntarily and deliberately chose your field of work and you have no intention of quitting it. Improving your methods, strengthening your skills and deepening your knowledge (hence becoming a better worker) is something you are honestly look forward to. You consider yourself lucky because of this.
+Generally you enjoy the work that you are doing on a day-by-day basis. You voluntarily and deliberately chose your field of work and you have no intention of quitting it. Improving your methods, strengthening your skills and deepening your knowledge (hence becoming a better worker) is something you are honestly looking forward to. You consider yourself lucky because of this.
 
 Then again you hate work. You hate the overidentification with the products of work, whose value (hence yourself's own value) is measured rather by public peer affirmation than by real-world contribution. You hate the winner-takes-it-all mentality, which is embedded in our cultural definition of personal success. You hate the celebration of competitive performative workaholism. You just hate the pressure that comes with all that.
 
-“No pressure, no diamonds!”, he says. We need that work culture which stimulates adversity and distress. Only the pressure pushes you to excel, to go further and beyond, to create the extreme, the outstanding, the valuable.
+“No pressure, no diamonds!”, they says. We would need a work culture which stimulates adversity and distress. Only the pressure pushes you to excel, to go further and beyond, to create the extreme, the outstanding, the valuable.
 
-Pressure boosting stimuli are not in short supply. So while increasing the pressure on yourself would be fairly easy, reducing it – once you immersed yourself into the given work culture – can be a bit of a hassle.
+Pressure boosting stimuli are not in short supply. So while increasing the pressure on yourself is fairly easy, reducing it – once you immersed yourself into the given work culture – can be a bit of a hassle.
 
 Once you internalized the capitalist notion of the productivity-success-happiness relationship and potential limitless personal growth, aren't you heading straight into misery, depression and burn-out? How do you stay sane assuming that all that limits you is your personal ambition? How do you stop the question “Am I doing enough?” from constantly haunting you and draining the joy out of work?
 
@@ -42,8 +42,6 @@ How do you reject the notion that total exhaustion is the only valid reason to e
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/Stroemquist-1.jpeg)
 
-![](https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/e35/60081638_2372717886348459_3018793371086580118_n.jpg?_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=h2-vlWqjxFsAX_2OjEZ&oh=2ea9669cf92ee13394f44558caab6a67&oe=5EEB4448)
-
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/painting.png)
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/musewendi.png)
@@ -58,7 +56,7 @@ How do you reject the notion that total exhaustion is the only valid reason to e
 
 ![](http://www.quickmeme.com/img/6d/6dd05274abd05c3dfedb7edf18f276bd381f74391c02c0e0d81dbbf6a1fa9129.jpg)
 
-![](https://pbs.twimg.com/media/Dm97ESQW0AIACqS?format=jpg&name=900x900)
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/wework.jpg)
 
 ![](https://pbs.twimg.com/media/EB-D3XgWkAEPZZW?format=jpg&name=medium)
 Src: [https://twitter.com/loudandsmart/status/1161792219797499904](https://twitter.com/loudandsmart/status/1161792219797499904)
@@ -89,6 +87,8 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 ## Reddit
 
 [https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/](https://www.reddit.com/r/findapath/comments/bb9b27/i_hate_graphic_design_so_much_that_im_suicidal/)
+
+[https://www.reddit.com/r/antiwork/](https://www.reddit.com/r/antiwork/)
 
 ## Works: Works (of Art, Film, Graphic Design) related to the topic of "Work"
 
