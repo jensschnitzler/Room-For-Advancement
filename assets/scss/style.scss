@@ -117,18 +117,17 @@ body.glossary {
   h3 {
     //font-size: 4rem;
     //position: absolute;
-    left: 0;
+    margin-left: 0;
     //height: 0;
     overflow: visible;
     //border-top: 1px solid black;
   }
   h4 {
     text-transform: none;
-    padding-left: 4rem;
+    margin-left: 4rem;
   }
   p {
-    margin-left: 0;
-    padding-left: 8rem;
+    margin-left: 8rem;
     //padding: 0 3rem 0 4rem;
   }
 }
