@@ -19,6 +19,8 @@ img {
 }
 
 main {
+  display: block;
+  position: relative;
   max-width: 38rem;
   margin: 0 auto;
   padding: .1rem .4rem;
