@@ -14,6 +14,10 @@ A compilation of resources for reflecting on labour and workism in the creative 
 
 - Travaillez toujours
 
+- Working Title
+
+- Looking At People At Work
+
 ## Abstract
 
 Generally you enjoy the work that you are doing on a day-by-day basis. You voluntarily and deliberately chose your field of work and you have no intention of quitting it. Improving your methods, strengthening your skills and deepening your knowledge (hence becoming a better worker) is something you are honestly looking forward to. You consider yourself lucky because of this.
@@ -156,6 +160,12 @@ Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https
 [https://www.smb.museum/ausstellungen/detail/design-lab-6/](https://www.smb.museum/ausstellungen/detail/design-lab-6/)
 
 ## People: Artists with interesting Work Practices
+
+- Enzo Mari ("La Mela", 1957)
+
+https://www.sueddeutsche.de/stil/design-wohnen-italien-enzo-mari-1.4905262
+
+http://www.o-r-g.com/apps/multi
 
 - Sister Corita Kent
 https://391.org/manifestos/immaculate-heart-college-art-department-rules-1965-1968/]
