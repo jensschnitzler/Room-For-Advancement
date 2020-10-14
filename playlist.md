@@ -16,6 +16,6 @@
 
 [Kat Frankie: A Body of Work]()
 
-[Marie Davidson: Work It]()
+[Marie Davidson: Work It](https://www.youtube.com/watch?v=hnsBX-C9ego)
 
-- Prem Krishnamurthy's Spotify Work Playlist: https://open.spotify.com/playlist/0AHl20dbTSTWwv5xJkBDZ1?si=ip4lk-9HRYeM-N2c8ahQBw
+[Prem Krishnamurthy's Spotify Work Playlist](https://open.spotify.com/playlist/0AHl20dbTSTWwv5xJkBDZ1?si=ip4lk-9HRYeM-N2c8ahQBw)

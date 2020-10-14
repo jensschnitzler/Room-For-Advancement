@@ -62,19 +62,27 @@ How do you reject the notion that total exhaustion is the only valid reason to e
 
 ![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/wework.jpg)
 
-![](https://pbs.twimg.com/media/EB-D3XgWkAEPZZW?format=jpg&name=medium)
-Src: [https://twitter.com/loudandsmart/status/1161792219797499904](https://twitter.com/loudandsmart/status/1161792219797499904)
-
 ![](https://networkcultures.org/entreprecariat/wp-content/uploads/sites/41/2017/02/graphic_design_is_my_passion.png)
+
+[https://www.instagram.com/p/B7vo6Gdh8Hk/](https://www.instagram.com/p/B7vo6Gdh8Hk/)
+
+![](https://media.gettyimages.com/photos/mather-company-chicago-printers-who-capitalized-on-the-1920sera-with-picture-id1180254466?s=2048x2048)
+Src: [https://www.gettyimages.de/detail/nachrichtenfoto/mather-company-chicago-printers-who-capitalized-on-the-nachrichtenfoto/1180254466](https://www.gettyimages.de/detail/nachrichtenfoto/mather-company-chicago-printers-who-capitalized-on-the-nachrichtenfoto/1180254466)
+
+![](https://media.gettyimages.com/photos/mather-company-chicago-printers-who-capitalized-on-the-1920sera-with-picture-id1180254268?s=2048x2048)
+Src: [https://www.gettyimages.de/detail/nachrichtenfoto/mather-company-chicago-printers-who-capitalized-on-the-nachrichtenfoto/1180254268](https://www.gettyimages.de/detail/nachrichtenfoto/mather-company-chicago-printers-who-capitalized-on-the-nachrichtenfoto/1180254268)
+
+## Twitter
+
+![](https://jensschnitzler.github.io/Room-For-Advancement/assets/img/robespierrette.png)
 
 ![](https://pbs.twimg.com/media/EDEDwR9XYAEsZaS?format=jpg&name=small)
 Src: [https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09](https://twitter.com/neuroticarsehol/status/1166717911731511297?s=09)
 
-[https://www.instagram.com/p/B7vo6Gdh8Hk/](https://www.instagram.com/p/B7vo6Gdh8Hk/)
-
 ![](https://pbs.twimg.com/media/EM9n10xX0AEh6W6?format=png&name=small)
 
-## Twitter
+![](https://pbs.twimg.com/media/EB-D3XgWkAEPZZW?format=jpg&name=medium)
+Src: [https://twitter.com/loudandsmart/status/1161792219797499904](https://twitter.com/loudandsmart/status/1161792219797499904)
 
 [https://twitter.com/mgoldst/status/1231234970968109057](https://twitter.com/mgoldst/status/1231234970968109057)
 
